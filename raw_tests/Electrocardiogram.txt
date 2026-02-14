@@ -1,0 +1,6 @@
+Test Name: Electrocardiogram
+URL: https://medlineplus.gov/lab-tests/electrocardiogram/
+--- CONTENT ---
+Your provider will check your EKG results for a steady heartbeat and rhythm. If your results are not normal, it may be a sign of a heart condition. The specific condition depends on which part of your EKG wasn't normal.
+You may need to have other heart health tests before your provider can make a diagnosis. Your provider can explain what your test results mean for your heart health and treatment.
+Learn more about laboratory tests, reference ranges, and understanding results.

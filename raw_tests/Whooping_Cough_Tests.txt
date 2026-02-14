@@ -1,0 +1,17 @@
+Test Name: Whooping Cough Tests
+URL: https://medlineplus.gov/lab-tests/whooping-cough-diagnosis/
+--- CONTENT ---
+For a bacteria culture test:
+A positive result means that you have whooping cough.
+A negative result may mean that you don't have whooping cough, but it doesn't rule it out. If your test sample was taken too late or if you took antibiotics before your test, the results may not be accurate.
+For a PCR test:
+A positive result means that genetic material from the whooping cough bacteria was found in your test sample, and you probably have whooping cough. But the PCR test may have found material from other related bacteria and mistaken it for whooping cough bacteria.
+A negative result means that you probably don't have whooping cough, but it doesn't rule it out. It's possible that your sample didn't have enough bacteria for the test to be accurate.
+To make a diagnosis for whooping cough, your provider can use your:
+Test results
+Symptoms
+Medical history
+Potential exposures to whooping cough
+Blood testing for whooping cough antibodies is not recommended for diagnosing a whooping cough infection. If you had this test and you were vaccinated, certain antibodies will show up in your test results. If a blood test finds certain other antibodies, it may mean you had a recent whooping cough infection.
+Whooping cough is treated with antibiotic medicine. Antibiotics can make your infection less serious if you start treatment before your cough gets bad. Treatment may also help prevent you from spreading the disease to others. If you have questions about your test results or treatment, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

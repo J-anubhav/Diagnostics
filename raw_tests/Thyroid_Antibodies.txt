@@ -1,0 +1,9 @@
+Test Name: Thyroid Antibodies
+URL: https://medlineplus.gov/lab-tests/thyroid-antibodies/
+--- CONTENT ---
+Your results may show one of the following:
+Negative: no thyroid antibodies were found. This means your thyroid symptoms are probably not caused by an autoimmune disease.
+Positive: thyroid antibodies, TPOAb and/or TgAb, were found. This may mean you have Hashimoto's disease. Most people with Hashimoto's disease have high levels of one or both of these types of antibodies.
+Positive: thyroid antibodies, TPOAb and/or TRAb, were found. This may mean you have Graves' disease.
+The more thyroid antibodies you have, the more likely it is that you have an autoimmune disorder of the thyroid. If you are diagnosed with Hashimoto's disease or Graves' disease, there are medicines you can take to manage your condition.
+Learn more about laboratory tests, reference ranges, and understanding results.

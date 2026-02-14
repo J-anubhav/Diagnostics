@@ -1,0 +1,7 @@
+Test Name: Legionella Tests
+URL: https://medlineplus.gov/lab-tests/legionella-tests/
+--- CONTENT ---
+If your results were positive, it probably means you have Legionnaires' disease.
+If your results were negative, it may mean you have a different type of infection. It may also mean not enough Legionella bacteria were found in your sample.
+If you have questions about your results, talk to your provider. Your provider may consider your symptoms, medical history, and the results of other tests to understand the results of your Legionella test.
+Learn more about laboratory tests, reference ranges, and understanding results.

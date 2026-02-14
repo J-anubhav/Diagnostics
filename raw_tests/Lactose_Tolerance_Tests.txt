@@ -1,0 +1,12 @@
+Test Name: Lactose Tolerance Tests
+URL: https://medlineplus.gov/lab-tests/lactose-tolerance-tests/
+--- CONTENT ---
+If you had a hydrogen breath test, your results may show:
+An increased level of hydrogen and worsening symptoms after drinking lactose. This probably means you have lactose intolerance.
+Little or no increase in hydrogen after drinking lactose. This means your symptoms are probably not caused by lactose intolerance. But sometimes you can have a negative result and still have lactose intolerance. You may need more tests to figure out the cause of your symptoms.
+If you had a glucose blood test, your results may show:
+Your glucose levels did not increase after drinking lactose. This probably means you have lactose intolerance.
+Your glucose levels increased. This means your symptoms are probably not caused by lactose intolerance. But if you have diabetes, your blood glucose may increase even if you have lactose intolerance. You may need more tests to figure out the cause of your symptoms.
+If you are diagnosed with lactose intolerance, you should be able to manage your condition by limiting or avoiding foods with lactose, such as milk and cheese. Some people with lactose intolerance can have a limited amount of dairy without symptoms. Other people may need to avoid lactose altogether. Taking a supplement that contains lactase may also help manage your condition.
+Be sure to talk to your provider about planning your diet and/or taking lactase supplements.
+Learn more about laboratory tests, reference ranges, and understanding results.

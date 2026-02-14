@@ -1,0 +1,13 @@
+Test Name: Diabetes Tests
+URL: https://medlineplus.gov/lab-tests/diabetes-tests/
+--- CONTENT ---
+Depending on the type of test or tests you had, your results may show one of the following:
+Your glucose is at a healthy level for you. This means you probably are not at risk for or do not have diabetes.
+Prediabetes.This means you have glucose levels that are higher than what is healthy for you and may be at risk of getting diabetes.
+Type 1 or type 2 diabetes.
+Gestational diabetes.
+If you have been diagnosed with type 1 diabetes, talk to your provider about how to best manage the disease. There is no cure for type 1 diabetes, but it may be controlled with regular glucose monitoring and taking insulin.
+If you've been diagnosed with prediabetes or type 2 diabetes, your condition may be managed or even reversed by taking diabetes medicines and making lifestyle changes. These include eating a healthy diet, losing weight, and increasing exercise.
+If you've been diagnosed with gestational diabetes, you may be able to lower your glucose levels by eating a healthy diet and getting regular exercise. But be sure to talk to your provider about treatment options. Most of the time, gestational diabetes goes away after giving birth. But you will be at higher risk for developing type 2 diabetes in the future.
+If you have other questions about your diabetes diagnosis or treatment, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

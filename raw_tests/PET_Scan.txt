@@ -1,0 +1,9 @@
+Test Name: PET Scan
+URL: https://medlineplus.gov/lab-tests/pet-scan/
+--- CONTENT ---
+Depending on which part of the body was being scanned, your results may show signs of:
+Cancer. Cancer cells show up as bright spots on a PET scan.
+Heart disease. The scan can show decreased blood flow to the heart.
+A brain disorder. The scan may show changes in certain brain chemicals that can be a sign of a disease.
+Some cancers don’t show up on a PET scan, so your provider may order additional tests based on your symptoms and medical history. If you also had a CT scan, your provider will review the results of the two scans to help make a diagnosis.
+If you have questions about your results, talk to your provider.

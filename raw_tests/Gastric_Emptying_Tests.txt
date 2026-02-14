@@ -1,0 +1,6 @@
+Test Name: Gastric Emptying Tests
+URL: https://medlineplus.gov/lab-tests/gastric-emptying-tests/
+--- CONTENT ---
+If your results show it took a longer-than-normal time for your stomach to empty, it could mean you have gastroparesis.
+If your results show it took a shorter-than-normal time for your stomach to empty, it could mean you have dumping syndrome.
+If you have questions about your results, talk to your provider. Your provider may also consider your symptoms and medical history to understand your results.

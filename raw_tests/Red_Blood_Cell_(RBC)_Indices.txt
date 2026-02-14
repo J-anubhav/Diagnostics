@@ -1,0 +1,29 @@
+Test Name: Red Blood Cell (RBC) Indices
+URL: https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/
+--- CONTENT ---
+You will get results for each of the indices. Abnormal results may include one or more of the following:
+Mean corpuscular volume (MCV)
+If your red blood cells are smaller than normal, it may mean you have:
+Iron deficiency anemia, the most common form of anemia. It happens when you don't have enough iron in your body.
+Thalassemia, which is a group of blood disorders that are inherited (passed down through families). These disorders cause your body to make fewer healthy red blood cells and less hemoglobin. This can cause severe anemia.
+If your red blood cells are larger than normal, it may mean you have:
+Anemia caused by a vitamin B deficiency
+Liver disease
+Mean corpuscular hemoglobin (MCH)
+If the amount of hemoglobin is lower than normal, it may mean you have:
+Iron deficiency anemia
+If the amount of hemoglobin is higher than normal, it may mean you have:
+Anemia caused by a vitamin B deficiency
+Mean corpuscular hemoglobin concentration (MCHC)
+If the average amount of hemoglobin is lower than normal, it may mean you have:
+Iron deficiency anemia
+Thalassemia
+If the average amount of hemoglobin is higher than normal, it may mean you have:
+Hemolytic anemia, a type of anemia that happens when red blood cells are destroyed faster than they can be replaced.
+Hereditary spherocytosis, a rare genetic disorder that causes anemia and gallstones
+Red cell distribution width (RDW)
+If your results were normal, it means your red blood cells are normal in size and are all about the same size.
+If your results were not normal, it means there are differences in the size of your red blood cells.
+This measurement is not enough for your provider to make a diagnosis, so RDW results are usually combined with the results of other indices and other blood tests. This combination of results can help confirm a diagnosis.
+Talk to your health care provider if you have questions about your results. Your provider will consider your symptoms, medical history, and the results of other blood tests to understand your results.
+Learn more about laboratory tests, reference ranges, and understanding results.

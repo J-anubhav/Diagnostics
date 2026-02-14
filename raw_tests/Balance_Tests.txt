@@ -1,0 +1,10 @@
+Test Name: Balance Tests
+URL: https://medlineplus.gov/lab-tests/balance-tests/
+--- CONTENT ---
+If your results show that you may have a balance disorder, your provider may order more tests and/or start treatment. Treatment depends on the type of disorder you have. For example:
+For benign paroxysmal positional vertigo (BPPV), your provider may move your head in different positions to move calcium grains in your inner ear back where they belong. The procedure is called the Epley maneuver or canalith repositioning.
+For Meniere's disease, your provider may suggest diet and lifestyle changes, such as increasing physical activity and quitting smoking. Medicines may also help.
+If your balance problems are from medicine or a condition that's not in your inner ear, changing medicine or treating the condition may help.
+If treatment doesn't help enough, balance retraining therapy, also called vestibular rehabilitation, may help you learn to cope with your symptoms and reduce your risk of falling.
+If you have questions about the results of your balance tests, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

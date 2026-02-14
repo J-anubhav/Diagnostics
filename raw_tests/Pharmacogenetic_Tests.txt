@@ -1,0 +1,6 @@
+Test Name: Pharmacogenetic Tests
+URL: https://medlineplus.gov/lab-tests/pharmacogenetic-tests/
+--- CONTENT ---
+Your test results will describe any changes in the gene that was tested. Changes in these genes can show how certain medicines are likely to affect you. But they cannot tell you anything about your health condition.
+Your provider will use the results of your pharmacogenetic test along with other information about your condition to recommend treatment or to make changes in your treatment. If your test results show that a certain medicine isn't right for you, your provider will consider other treatments that may help you. Talk with your provider to find out how your test results may change your treatment options.
+Learn more about laboratory tests, reference ranges, and understanding results.

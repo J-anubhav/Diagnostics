@@ -1,0 +1,17 @@
+Test Name: Smooth Muscle Antibody (SMA) Test
+URL: https://medlineplus.gov/lab-tests/smooth-muscle-antibody-sma-test/
+--- CONTENT ---
+Diagnosing autoimmune hepatitis can be difficult. The process may involve tests to rule out other diseases that can affect your liver. To understand what your SMA test results mean, your provider will consider the results of other tests you've had. Your provider can explain what these results say about your health.
+In general:
+A positive SMA test result means SMAs were found in your blood sample:
+High levels of SMAs often mean you have type 1 autoimmune hepatitis. But this test can't diagnose the disease. If you have high levels of both SMAs and ANAs, your provider may suggest a biopsy to remove a small sample of liver tissue for testing. The results of a biopsy can confirm whether you have autoimmune hepatitis.
+SMAs that are somewhat high may be a sign of other conditions, including:
+
+Primary biliary cholangitis, an autoimmune disease that damages the bile ducts (tubes) in your liver
+Infectious mononucleosis
+Hepatitis C
+Certain types of cancer
+A negative SMA test result means SMAs were not found in your blood sample. You're unlikely to have type 1 autoimmune hepatitis. But if you had a test that showed you have anti-LKM-1 antibodies, you may have type 2 autoimmune hepatitis. You may need a biopsy to confirm the diagnosis.
+In general, if SMA, ANA, and anti-LKM-1 testing doesn't find any autoantibodies in your blood, it usually means you don't have autoimmune hepatitis. But it doesn't rule it out completely. It's possible for autoimmune hepatitis to be caused by other autoantibodies that are not commonly tested.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

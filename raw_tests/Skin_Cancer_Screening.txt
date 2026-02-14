@@ -1,0 +1,9 @@
+Test Name: Skin Cancer Screening
+URL: https://medlineplus.gov/lab-tests/skin-cancer-screening/
+--- CONTENT ---
+If you find a mole or other spot on your skin that concerns you, contact your provider. If you or your provider finds a sign of skin cancer, you'll probably have a skin biopsy to find out whether you have cancer.
+A skin biopsy is a procedure that removes a small sample of skin for testing. The skin sample is checked under a microscope to look for cancer cells. Not all suspicious spots turn out to be skin cancer. If the biopsy shows that you do have skin cancer, your provider will talk with you about your treatment options.
+In some cases, your screening test results may be misleading. For example, they could show that:
+You have skin cancer, but you really don't. This is called a "false positive." If you have a false positive, you may have other tests.
+You don't have skin cancer when you really do. This is called a "false negative." If your results are negative but you're still concerned about an unusual area of skin, talk to your provider about getting additional tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

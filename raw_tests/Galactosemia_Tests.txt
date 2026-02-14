@@ -1,0 +1,7 @@
+Test Name: Galactosemia Tests
+URL: https://medlineplus.gov/lab-tests/galactosemia-tests/
+--- CONTENT ---
+Your baby's results will be either positive or negative for galactosemia.
+If the results are negative, your child doesn't have the disorder.
+If the results are positive, your baby will probably need more testing to confirm the diagnosis. These may include other blood tests, urine tests, and genetic tests.
+Learn more about laboratory tests, references ranges, understanding results.

@@ -1,0 +1,13 @@
+Test Name: Myelography
+URL: https://medlineplus.gov/lab-tests/myelography/
+--- CONTENT ---
+If your results were not normal, it may mean you have one of the following conditions:
+Herniated disk
+Spinal stenosis
+Tumor
+Nerve injury
+Bone spurs
+Arachnoiditis (inflammation of the membrane surrounding the spinal cord)
+A normal result means your spinal canal and structures were normal in size, position, and shape. Your provider may want to do more tests to find out what is causing your symptoms.
+If you have questions about your results, talk to your provider. To understand the results of myelography, your provider may consider your symptoms, medical history, and the results of other tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

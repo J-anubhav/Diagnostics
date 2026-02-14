@@ -1,0 +1,17 @@
+Test Name: C. diff Testing
+URL: https://medlineplus.gov/lab-tests/c-diff-testing/
+--- CONTENT ---
+There are several tests for C. diff that check for different signs of infection in your stool sample. Your provider may order a combination or two or more types of tests along with tests for other conditions that can cause diarrhea. Your provider will consider all your test results, your symptoms, and your medical history to figure out whether C. diff is causing your illness.
+In general:
+A positive (abnormal) test result may mean that toxins from C. diff bacteria are causing your symptoms. You may be diagnosed with C. diff if your tests show that your sample contained:
+C. diff toxin genes. These are genes from the types of C. diff that can cause illness.
+C. diff toxins. These tests check for two types of toxins called A and B.
+A negative (normal) test result generally means that no signs of a C. diff infection were found in your sample. Your symptoms are probably caused by something else.
+But a negative result on a C. diff toxin test alone isn't enough to rule out a C. diff infection. That's because C. diff toxins can break down quickly if your sample isn't kept cool. If this happens, a toxin test may not find toxins in your sample, even when they're making you sick. For this reason, toxin tests are usually done with tests for C. diff toxin genes and/or C. diff GDH antigens.
+If you're diagnosed with a C. diff infection while you're taking an antibiotic for another infection, your provider may tell you to stop taking it. Your treatment may include:
+Taking a different type of antibiotic that targets C. diff bacteria
+Fluids if you are dehydrated
+Some people may take probiotics, a type of supplement that might support good bacteria in your digestive system. But researchers aren't sure if these supplements are helpful.
+If C. diff infections keep returning after treatment, talk with your provider. There are treatments that can help reduce the chance that C. diff will come back. These treatments use good bacteria from the stool of healthy people to help control the growth of C. diff.
+If you have questions about your results and/or treatment, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

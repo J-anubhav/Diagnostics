@@ -1,0 +1,10 @@
+Test Name: Drug Testing
+URL: https://medlineplus.gov/lab-tests/drug-testing/
+--- CONTENT ---
+If a drug test result is positive, it means that one or more drugs were found in amounts that suggest drug use or misuse. If you have a positive test result, you'll usually have a follow-up urine test to make sure the first test was correct. That's because the type of urine testing that's often done first can have false positive results.
+A false positive means that the test showed you had a drug in your sample when it really wasn't there. False positives can happen if the test reacts with other chemicals in your body from certain over-the-counter medicines, prescriptions, and foods.
+The follow-up drug test after a false positive result is called a confirmatory test. It is a more sensitive test that provides more accurate results.
+If a drug test result is negative, it means that either:
+The drugs that were tested were not found in your sample.
+A very small amount of drugs was found, but not enough to count as a positive test result for drugs.
+Learn more about laboratory tests, reference ranges, and understanding results.

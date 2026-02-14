@@ -1,0 +1,9 @@
+Test Name: Mental Health Screening
+URL: https://medlineplus.gov/lab-tests/mental-health-screening/
+--- CONTENT ---
+Usually, the provider who did the screening will explain the results. If the results show signs of a mental health disorder, the next steps depend on the type of disorder and how serious it may be. If a primary care provider did the screening, the provider may:
+Talk with you about treatments
+Order tests to check for other health problems that may be causing symptoms
+Refer you or your child to a mental health provider
+A mental health provider may do more tests to confirm a diagnosis and help develop a treatment plan. Starting treatment as soon as possible may improve the chance of recovery.
+Learn more about laboratory tests, reference ranges, and understanding results.

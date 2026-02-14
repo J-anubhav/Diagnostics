@@ -1,0 +1,7 @@
+Test Name: Karyotype Genetic Test
+URL: https://medlineplus.gov/lab-tests/karyotype-genetic-test/
+--- CONTENT ---
+A normal or negative result means that there were 46 chromosomes in the sample without any unusual changes in their structure.
+An abnormal or positive result means that unusual changes in the number or structure of chromosomes were found.
+Abnormal results can mean many things about your health or your child's health depending on the chromosome changes that were found. Talk with your provider to learn what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,10 @@
+Test Name: Breast Biopsy
+URL: https://medlineplus.gov/lab-tests/breast-biopsy/
+--- CONTENT ---
+It may take several days to a week to get your biopsy results (often called a pathology report). The report is written for your provider and will include a lot of medical terms. But the most important part of your report will be the diagnosis, which will be one of these categories:
+Normal. No cancer or abnormal cells were found.
+Abnormal breast changes that aren't cancer and don't increase your risk for breast cancer. Some of these conditions often get better on their own, while others may need treatment.
+Abnormal breast changes that increase your risk for breast cancer. These cells are not cancer, but if you have them, you are more likely to develop cancer. You may need a surgical biopsy to remove any additional abnormal tissue. In addition, your provider may refer you to a doctor who specializes in breast cancer.
+Breast cancer. If your provider finds cancer cells, your report will include details about how fast the cancer cells are growing, how much they look like normal cells, and other information to help plan the most effective treatment. Usually, a doctor who specializes in breast cancer will provide your care.
+Your test results may also tell you about your tumor type and grade and whether or not you have certain hormones or proteins that make you more likely to develop cancer. Ask your provider to explain any additional information in your report.
+Learn more about laboratory tests, reference ranges, and understanding results.

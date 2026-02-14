@@ -1,0 +1,14 @@
+Test Name: Videonystagmography (VNG)
+URL: https://medlineplus.gov/lab-tests/videonystagmography-vng/
+--- CONTENT ---
+If your VNG results were not normal, it may mean you have a disorder of the vestibular system in your inner ear. The disorder may be in one or both ears. Your provider can explain what type of disorder you may have. You may need more tests, including other balance tests, to confirm your diagnosis.
+A VNG can help diagnose several vestibular disorders, including:
+Benign paroxysmal positional vertigo (BPPV). BPPV is the most common cause of vertigo in adults. With this condition, you feel a spinning sensation when you move your head in certain ways. Normally, part of your inner ear has grains of calcium that help tell your brain about your head's position and movement. BPPV happens if these grains slip out of place and get into a part of your inner ear where they don't belong. When the grains move around in the wrong place, they trigger confusing signals about how your head is moving.
+Meniere's disease. This disorder causes vertigo, hearing loss, tinnitus (ringing in the ears), and a full feeling in your ears. It happens when too much fluid builds up in the vestibular system. The cause is unknown.
+Labyrinthitis. This balance disorder can cause dizziness and temporary hearing loss. It happens if parts of your inner ear become irritated and inflamed (swollen), usually from a cold or flu. It sometimes goes away on its own.
+Vestibular neuritis. This is irritation and inflammation (swelling) of the vestibular nerve. This nerve carries signals from the vestibular system in your inner ear to your brain. It's usually caused by a viral infection. The main symptoms are nausea and vertigo./li>
+
+Acoustic neuroma. This is a tumor which develops on the nerves involved with hearing and balance. It's usually benign (not cancer), but it can cause hearing loss, tinnitus, and/or dizziness.
+An abnormal VNG result may also mean you have a condition that affects the parts of your brain that help control your balance. Treatment options depend on the type of balance disorder you have.
+If you have questions about your results or treatment, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

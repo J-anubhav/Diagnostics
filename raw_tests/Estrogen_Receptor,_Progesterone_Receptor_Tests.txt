@@ -1,0 +1,12 @@
+Test Name: Estrogen Receptor, Progesterone Receptor Tests
+URL: https://medlineplus.gov/lab-tests/estrogen-receptor-progesterone-receptor-tests/
+--- CONTENT ---
+The results will show whether you have a hormone receptor-positive or negative type of cancer.
+If your hormone receptor status is positive:
+At least 1% of the cells in your sample have estrogen and/or progesterone receptors.
+The cancer is using either estrogen or progesterone to grow. The higher the levels of receptors, the more effective certain medicines may be in treating your cancer.
+These results may also be called hormone-sensitive, hormone receptor-positive, or HR-positive.
+If your hormone receptor status is negative:
+Less than 1% of the cells in your sample have receptors, so those medicines will not be effective.
+These results may also be called hormone insensitive, receptor-negative, or HR-negative.
+If you have questions about your results, talk to your provider. They may want to do other tests before making a diagnosis and planning the best treatment for you.

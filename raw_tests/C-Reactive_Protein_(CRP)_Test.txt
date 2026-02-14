@@ -1,0 +1,11 @@
+Test Name: C-Reactive Protein (CRP) Test
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+--- CONTENT ---
+In general, healthy people have very low amounts of CRP in their blood. A value of 0.8-1.0 milligrams per deciliter (mg/dL) or lower is thought to be a healthy amount. Any increases above normal may mean you have inflammation in your body. However, increases can also be linked to:
+Insomnia.
+Depression.
+Hormone replacement therapy.
+Obesity.
+Sex. Females often have slightly higher CRP levels than males.
+Your CRP test results tell you how much inflammation you have in your body, but not what's causing it or where it is. To make a diagnosis, your provider will look at your CRP results along with the results of other tests, your symptoms, and medical history.
+Learn more about laboratory tests, reference ranges, and understanding results.

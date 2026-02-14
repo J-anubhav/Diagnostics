@@ -1,0 +1,11 @@
+Test Name: Measles and Mumps Tests
+URL: https://medlineplus.gov/lab-tests/measles-and-mumps-tests/
+--- CONTENT ---
+Negative test results mean that no signs of measles or mumps were found in your sample. This usually means that you don't have measles or mumps now. If you had a negative result on an antibody test, it also means that you are not immune to measles or mumps.
+Positive test results mean different things depending on which test you had:
+A positive result on a molecular test (PCR) means that the measles or mumps virus was found in your blood, and you have an infection now.
+A positive result on an IgM antibody test means you have a measles or mumps infection now or you have had a recent infection.
+A positive result on an IgG antibody test means you are immune to measles or mumps because you had a vaccination or past infection.
+Talk with your provider if you have questions about test results.
+If you (or your child) have a measles or mumps infection, you should stay home for several days to recover and to make sure you don't spread the disease. Your provider will let you know when it will be okay to return to your regular activities.
+Learn more about laboratory tests, reference ranges, and understanding results.

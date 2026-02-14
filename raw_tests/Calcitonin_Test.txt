@@ -1,0 +1,15 @@
+Test Name: Calcitonin Test
+URL: https://medlineplus.gov/lab-tests/calcitonin-test/
+--- CONTENT ---
+The meaning of your calcitonin test results depends on the reason you were tested. If you had a calcitonin test:
+To help diagnose or screen for medullary thyroid cancer or C-cell hyperplasia:
+A normal calcitonin level may mean that you don't have either condition, but it doesn't rule them out. That's because medullary thyroid cancer and C-cell hyperplasia don't always cause high calcitonin. Your provider may order other tests to learn more.
+A high calcitonin level means that the C cells in your thyroid are making too much calcitonin. The higher the level, the more likely it is that you have medullary thyroid cancer or C-cell hyperplasia. But high calcitonin levels may be caused by other conditions, including certain other cancers, certain medicines, and pregnancy. To make a diagnosis, your provider will consider other information, including other test results.
+A low calcitonin level is not known to be a medical problem.
+To monitor treatment for medullary thyroid cancer or to check whether cancer has come back after treatment: The meaning of your test results depends on the type of treatment you're having or had. Treatment usually starts with surgery to remove your thyroid gland. Other treatments include radiation therapy, chemotherapy, and/or medicines.
+In general:
+Calcitonin levels that decrease and stay low over time usually mean that your treatment is helping.
+A calcitonin level that decreases but is still higher than normal may mean that you still have some cancer tissue left in your body. You may need more tests and treatment.
+A calcitonin level that increases over time usually means that your cancer has returned or spread to other parts of your body.
+Ask your provider to explain what your test results mean for your health.
+Learn more about laboratory tests, reference ranges, and understanding results.

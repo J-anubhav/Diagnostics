@@ -1,0 +1,18 @@
+Test Name: Adrenocorticotropic Hormone (ACTH)
+URL: https://medlineplus.gov/lab-tests/adrenocorticotropic-hormone-acth/
+--- CONTENT ---
+To understand what the results of your ACTH test mean, your provider will usually compare your ACTH level with your cortisol level. If your results are abnormal, you may need other tests to confirm the specific cause. Ask your provider to explain what your test results say about your health.
+In general:
+High ACTH and high cortisol levels are a sign of pituitary tumor that makes ACTH (Cushing's disease). The extra ACTH triggers your adrenal glands to make too much cortisol.
+
+You'll likely need more tests, such as a CT or MRI scan, to confirm whether you have a pituitary tumor. The high level of ACTH could also be from other causes including:
+
+
+A rare type of tumor in your lung, pancreas, or thyroid gland
+A condition called multiple endocrine neoplasia
+
+
+High ACTH and low cortisol levels are a sign of damage to your adrenal glands (Addison disease). If your adrenal glands can't make enough cortisol, your pituitary gland usually makes more ACTH to try to get your adrenal glands to work better.
+Low ACTH and high cortisol levels are a sign of Cushing's syndrome. This means that high cortisol levels may be caused by long-term use of steroid medicines or an adrenal gland tumor that makes extra cortisol. The high cortisol levels signal your hypothalamus and pituitary gland to decrease ACTH levels.
+Low or normal ACTH and low cortisol levels are a sign of hypopituitarism. This means that a pituitary tumor or damage to your pituitary gland may prevent it from making enough ACTH. Without enough ACTH, your adrenal glands aren't stimulated to make enough cortisol. Over time, they may shrink.
+Learn more about laboratory tests, reference ranges, and understanding results.

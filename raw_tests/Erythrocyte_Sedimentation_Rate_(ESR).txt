@@ -1,0 +1,27 @@
+Test Name: Erythrocyte Sedimentation Rate (ESR)
+URL: https://medlineplus.gov/lab-tests/erythrocyte-sedimentation-rate-esr/
+--- CONTENT ---
+Your provider will use your ESR test results, medical history, symptoms, and other test results to make a diagnosis. An ESR test alone cannot diagnose conditions that cause inflammation.
+A high ESR test result  means your red blood cells sank faster than normal. This may be from a condition that causes inflammation, such as:
+Giant cell arteritis, inflammation (swelling) of your arteries, usually in your scalp, neck, and arms
+Arthritis
+Systemic vasculitis, inflammation of your blood vessel walls, which can affect any of your organs
+Polymyalgia rheumatica
+Inflammatory bowel disease
+Kidney disease
+Infections
+Rheumatoid arthritis and other autoimmune diseases
+Heart disease
+Certain cancers
+A low ESR test result means your red blood cells sank slower than normal. This may be caused by conditions such as:
+A blood disorder, such as:
+
+Polycythemia, an increase in your red blood cells, which causes your blood to thicken
+Sickle cell disease (SCD)
+Leukocytosis, a very high white blood cell count (WBC)
+
+
+Heart failure
+Certain kidney and liver problems
+If your ESR results are not normal, it doesn't always mean you have a medical condition that needs treatment. Normal ESR levels will vary, depending on your age and sex. Also, pregnancy, your menstrual cycle, aging, obesity, drinking alcohol regularly, and exercise can affect ESR results.  Certain medicines and supplements may also affect your results, so be sure to tell your provider about any medicines or supplements you are taking.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,6 @@
+Test Name: Acetaminophen Level
+URL: https://medlineplus.gov/lab-tests/acetaminophen-level/
+--- CONTENT ---
+If results show a high level of acetaminophen, you or your child may be at risk for liver damage and may need immediate treatment. The type of treatment will depend on how much excess acetaminophen is in your system. After you get your results, your provider may recommend other tests or treatment. They may repeat this test every four to six hours to make sure you are out of danger.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

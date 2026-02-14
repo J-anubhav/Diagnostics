@@ -1,0 +1,9 @@
+Test Name: Sleep Study
+URL: https://medlineplus.gov/lab-tests/sleep-study/
+--- CONTENT ---
+Your results may include measurements of the following:
+Apnea Hypopnea Index (AHI). This looks at how many episodes of sleep apnea happen in a night. If you have more than five episodes, it probably means you have sleep apnea.
+Sleep efficiency. This is a calculation based on the total number of minutes you sleep during the night compared with the amount of time you spend in bed. So if you spend a long time in bed without being able to sleep, you would have low sleep efficiency.
+Oxygen Desaturation Index (ODI). This measures the number of times your oxygen level drops during sleep. Lower than 90 percent oxygen is considered abnormal.
+Heart rate. A normal heart rate is between 60 and 100 beats per minute. This result will show if your heart is beating faster or slower than normal.
+Your provider will review all the results and, if appropriate, provide a treatment plan. If you have questions about your results, talk to your provider.

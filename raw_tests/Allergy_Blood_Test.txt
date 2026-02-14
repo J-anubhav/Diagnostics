@@ -1,0 +1,9 @@
+Test Name: Allergy Blood Test
+URL: https://medlineplus.gov/lab-tests/allergy-blood-test/
+--- CONTENT ---
+A total IgE test result that is high means that you may have some kind of allergy. But the results of a total IgE test don't show what you're allergic to or how serious your allergy may be.
+A specific IgE test result that is high means that you may be allergic to the allergen that was tested. But the amount of IgE measured doesn't predict how serious your allergy may be.
+If the results from either type of test show that you could have an allergy, your provider may refer you to an allergy specialist or recommend a treatment plan. Your treatment plan will depend on what you are allergic to and how serious your symptoms are.
+If you're at risk for anaphylactic shock, you'll need to be very careful to avoid the things you are allergic to. You may need to carry an emergency epinephrine treatment (an epinephrine auto-injector) with you at all times. Anaphylactic shock is most common with allergies to certain foods, medicines, insect bites and stings, and latex.
+Ask your provider if you are at risk for anaphylactic shock and discuss any questions you have about your test results or your allergy treatment plan.
+Learn more about laboratory tests, reference ranges, and understanding results.

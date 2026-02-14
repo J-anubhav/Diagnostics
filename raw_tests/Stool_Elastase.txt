@@ -1,0 +1,8 @@
+Test Name: Stool Elastase
+URL: https://medlineplus.gov/lab-tests/stool-elastase/
+--- CONTENT ---
+Your stool elastase test results will tell you how much elastase was in your stool sample:
+A normal amount of elastase means that you may not have exocrine pancreatic insufficiency (EPI). But a normal test result doesn't rule out EPI. If you were tested because you have symptoms, you may need other tests to find out what's causing them.
+A less than normal amount of elastase may mean that you have EPI. Test results that aren't normal may be described as either "moderate" or "severe pancreatic insufficiency." Your provider will probably order other tests to confirm EPI and the cause.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

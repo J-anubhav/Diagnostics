@@ -1,0 +1,15 @@
+Test Name: Dengue Fever Test
+URL: https://medlineplus.gov/lab-tests/dengue-fever-test/
+--- CONTENT ---
+If you had a molecular test (a PCR test):
+A positive test result means that the test found genetic material from the virus in your blood sample. You most likely have a dengue infection.
+A negative test result means that the dengue virus wasn't found in your blood sample. You probably don't have dengue. But it's possible that there wasn't enough virus in your blood sample for the test to find. That might happen if the test was done more than seven days after your symptoms began. If your molecular test result is negative, your provider will usually order an antibody test to confirm that you don't have dengue.
+If you had an antibody test, your test results may be reported as positive or negative. Or they may be given as a measurement of the dengue antibodies found in your blood sample.
+A positive test result means that antibodies for the dengue virus were found. You probably have a dengue infection, but you may need another test to confirm the results. That's because the antibody test may have found antibodies that fight other similar viruses that mosquitos carry. Your provider may order another type of blood test to find out exactly which type of viral infection you have.
+A negative test result means that dengue antibodies weren't found in your blood sample. Dengue may not be causing your symptoms. But a negative result could mean that you were tested before your body had time to make enough antibodies to show on the test. So, your provider may order another antibody test to check again.
+If you have dengue fever, your provider can tell you how to treat your symptoms. Always follow your provider's instructions. In general, care for dengue fever includes:
+Getting plenty of rest.
+Drinking lots of fluids.
+Taking acetaminophen to control fever and relieve pain. Do not take aspirin, ibuprofen, or naproxen sodium, because they can increase the risk of bleeding.
+Watching carefully for symptoms of severe dengue. Dengue fever can become severe within hours. Get medical help right away if you develop the symptoms of severe dengue.
+Learn more about laboratory tests, reference ranges, and understanding results.

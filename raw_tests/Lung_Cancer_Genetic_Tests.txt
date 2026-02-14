@@ -1,0 +1,10 @@
+Test Name: Lung Cancer Genetic Tests
+URL: https://medlineplus.gov/lab-tests/lung-cancer-genetic-tests/
+--- CONTENT ---
+If your lung cancer cells have a gene change that may respond well to a targeted therapy, your provider may start you on that treatment.
+If your results show you don't have a gene change that matches a targeted therapy, your provider may discuss other treatment options. If you were tested for one gene change, other tests may be done to look for other gene changes that have targeted therapies.
+Your test results may also show that your lung cancer has a gene change that:
+May prevent a certain therapy from working. This information could spare you from getting treatment that won't help.
+Doesn't help make treatment decisions. Researchers don't understand the importance of all the gene changes that are found in cancer.
+Genetic testing may take longer than many other types of lab tests. So, you may not get your results for a few days to a week or more. If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

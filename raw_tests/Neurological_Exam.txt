@@ -1,0 +1,11 @@
+Test Name: Neurological Exam
+URL: https://medlineplus.gov/lab-tests/neurological-exam/
+--- CONTENT ---
+If the results of any part of your neurological exam are not normal, your provider will probably order more tests to help make a diagnosis. The tests will depend on what type of condition your provider thinks you could have. They may include:
+Blood and/or urine tests
+Imaging tests, such as an MRI
+Cerebrospinal fluid (CSF) testing, also called a lumbar puncture
+Biopsy
+Electroencephalography (EEG) or electromyography (EMG), which use small electric sensors to measure brain activity and nerve function
+If you have questions about your results, talk with your neurologist or other provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

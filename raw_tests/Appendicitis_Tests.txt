@@ -1,0 +1,15 @@
+Test Name: Appendicitis Tests
+URL: https://medlineplus.gov/lab-tests/appendicitis-tests/
+--- CONTENT ---
+To confirm or rule out appendicitis, your provider will consider your symptoms, medical history, and the results of your exam and appendicitis tests.
+Blood test results:
+A high white blood cell count means you probably have an infection. But the test results don't show what's causing the infection. It's also possible to have appendicitis with a normal white blood cell count.
+A high level of c-reactive protein (CRP) in your blood means that you have inflammation in your body that could be from appendicitis. But this test alone can't diagnose appendicitis.
+Urine test results:
+A high level of white blood cells or bacteria in your urine may means that a urinary tract infection is causing your symptoms.
+Blood, crystals or high levels of certain minerals in your urine may mean that kidney stones are causing your symptoms.
+Imaging test results:
+An appendix that is blocked, larger than normal, burst, or has an abscess means that you probably have appendicitis.
+If your appendix looks normal, imaging tests may help find other problems that could be causing abdominal pain.
+If your provider diagnoses appendicitis, you'll usually have surgery to remove your appendix as soon as possible before it can burst. If your appendix has already burst, you must have surgery right away. The surgeon will remove your appendix and clean the infection from your abdomen.
+Learn more about laboratory tests, reference ranges, and understanding results.

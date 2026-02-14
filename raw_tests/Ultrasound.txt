@@ -1,0 +1,6 @@
+Test Name: Ultrasound
+URL: https://medlineplus.gov/lab-tests/sonogram/
+--- CONTENT ---
+The results of your ultrasound depend on the type of ultrasound you had. Your provider can explain what your results mean for your health.
+If you had a pregnancy ultrasound, normal results mean that your baby appears to be developing normally. But an ultrasound can't guarantee you'll have a healthy baby. If your results weren't normal, you may need more tests, including another ultrasound exam.
+Learn more about laboratory tests, reference ranges, and understanding results.

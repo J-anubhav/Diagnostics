@@ -1,0 +1,11 @@
+Test Name: Esophageal pH Test
+URL: https://medlineplus.gov/lab-tests/esophageal-ph-test/
+--- CONTENT ---
+If your results show high acid levels, it may be a sign of one of the following conditions:
+Acid reflux
+GERD
+Esophagitis, a condition that cause swelling and/or inflammation of the esophagus. It can cause difficulty swallowing.
+Stricture, a narrowing of the esophagus that can make it hard to swallow and cause breathing problems
+Barrett's esophagus, a condition in which the lining of the esophagus is damaged by stomach acid. It can raise the risk of developing cancer of the esophagus.
+Esophagitis, strictures, and Barrett's esophagus can happen if GERD is left untreated or if treatment is not effective.
+If you have questions about your results, talk to your provider.

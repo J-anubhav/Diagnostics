@@ -1,0 +1,6 @@
+Test Name: Therapeutic Drug Monitoring
+URL: https://medlineplus.gov/lab-tests/therapeutic-drug-monitoring/
+--- CONTENT ---
+Your results will show if medicine levels in your blood are in a range that is medically helpful but not dangerous. This is called the "therapeutic range." This range varies, depending on the type of medicine you are taking and your own health needs. If your results are not in this range, your provider may need to adjust your dosages. If your dosages change, you may get repeated tests until your medicine levels fall into the therapeutic range.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

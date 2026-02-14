@@ -1,0 +1,12 @@
+Test Name: PDL1 (Immunotherapy) Tests
+URL: https://medlineplus.gov/lab-tests/pdl1-immunotherapy-tests/
+--- CONTENT ---
+Your test results will show whether you have enough PD-L1 protein in your tumor for you to benefit from a specific immunotherapy medicine. Some immunotherapy medicines will not be helpful if a small percentage of your cancer cells have PD-L1.
+If your test results show that:
+Your tumor cells have enough PD-L1 for you to use immunotherapy medicine, you may be able to start that medicine. Common examples include pembrolizumab, nivolumab, and atezolizumab. This may be called a "positive" test result.
+Your tumor cells don't have enough PD-L1, then immunotherapy likely won't help you. This may be called a "negative" test result. Your provider will consider other types of cancer treatment that will be more effective.
+Your test results may also have different scoring systems and values. For example, you may see:
+Combined Positive Score (CPS), which measures PD-L1 on both tumor cells and T-cells.
+Tumor Propositional Score (TPS), which measures the percentage of tumor cells that have high amounts of PD-L1.
+These scoring systems and values can vary depending on what type of PD-L1 test your provider used. Because of these differences, you should talk to your provider about what your results mean. Your provider may also use other tests to help decide on the best treatment for you.
+Learn more about laboratory tests, reference ranges, and understanding results.

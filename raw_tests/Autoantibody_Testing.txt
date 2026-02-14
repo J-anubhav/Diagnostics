@@ -1,0 +1,10 @@
+Test Name: Autoantibody Testing
+URL: https://medlineplus.gov/lab-tests/autoantibody-testing/
+--- CONTENT ---
+Your results may depend on the type of autoantibody test you had. But generally, your results will be either positive or negative.
+A negative (normal) result means that you have little or no autoantibodies in your blood. But that doesn't rule out an autoimmune disease. People with rheumatoid arthritis, for example, may have little to no RF in their blood. If you have symptoms of an autoimmune disease, but your results are normal, your provider may order more tests to make a diagnosis.
+A positive (abnormal) result means that some amount of autoantibodies were found in your blood. This doesn't necessarily mean that you have an autoimmune disease. Some healthy people have autoantibodies in their blood. To make a diagnosis, your provider will consider other test results along with your symptoms and medical history.
+Some results may give a number for how many autoantibodies were found. This is called a titer. If a titer is provided, your results will also have a reference range. A reference range is a set of numbers that form the high and low ends of the range of results that's considered normal. So, a titer value that is higher than the reference range may be a sign of an autoimmune disease.
+The results for autoantibody panels, such as ANA and ENA tests, might also go into detail for each of the autoantibodies tested. This means you could have positive results for some autoantibody tests and negative results for others.
+Because autoantibody test results can mean so many different things, it's important to talk to your provider about what your results mean for you.
+Learn more about laboratory tests, reference ranges, and understanding results.

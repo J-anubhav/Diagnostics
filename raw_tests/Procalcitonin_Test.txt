@@ -1,0 +1,18 @@
+Test Name: Procalcitonin Test
+URL: https://medlineplus.gov/lab-tests/procalcitonin-test/
+--- CONTENT ---
+High procalcitonin levels mean that you:
+Most likely have sepsis
+May have a high risk of developing severe sepsis and septic shock, a life-threatening condition when your organs don't get enough blood to work properly
+May have a serious systemic bacterial infection that increases your risk for sepsis
+The higher your procalcitonin levels, the higher your risk for sepsis and septic shock.
+Moderate to mildly high levels of procalcitonin may be sign of:
+The earlier stages of a systemic bacterial infection
+Kidney infection, in children only
+Conditions other than infections, such as tissue damage from trauma, serious burns, recent surgery, severe heart attack
+Slightly high levels of procalcitonin mean that you are unlikely to develop sepsis, but they may be a sign of:
+A local bacterial infection, such as a urinary tract infection
+An infection from another cause, such as a virus
+A systemic bacterial infection that is just beginning
+If you are being treated for a bacterial infection, decreasing or low procalcitonin levels mean that your treatment is working.
+Learn more about laboratory tests, reference ranges, and understanding results.

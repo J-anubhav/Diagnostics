@@ -1,0 +1,12 @@
+Test Name: Elastography
+URL: https://medlineplus.gov/lab-tests/elastography/
+--- CONTENT ---
+Your elastography images will be studied by a radiologist, who will send your results to your provider. Your results will show how much stiffness was found in your liver. This tells you how much liver scarring (fibrosis) you have. Your results will be given a fibrosis score which is based on the amount of stiffness in your liver and the cause:
+F0 to F1 is normal, which means you have little or no scarring in your liver.
+F2 means you have moderate scarring.
+F3 means you have severe scarring.
+F4 means you have cirrhosis (very severe scarring).
+Your results also show how much fat buildup you have in your liver. The measurement of fat in your liver is called a "CAP score." It tells you the percentage of your liver that is fat. The amount of fat in a normal liver is 5% or less. Higher amounts mean you have fatty liver disease, which may cause fibrosis.
+If you have mild to severe fibrosis and/or fatty liver disease, your condition can improve if you treat the cause and make lifestyle changes, including diet and exercise. If you have cirrhosis, treating the cause may keep liver scarring from getting worse. Successful treatment may slowly improve some of the scarring.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

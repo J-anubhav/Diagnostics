@@ -1,0 +1,8 @@
+Test Name: Respiratory Pathogens Panel
+URL: https://medlineplus.gov/lab-tests/respiratory-pathogens-panel/
+--- CONTENT ---
+A negative result may mean your symptoms were caused by a pathogen not included in the panel of tests. It could also mean that your sample was not collected correctly, the sample wasn't large enough, or you have a condition not caused by a virus or bacteria.
+A positive result means a specific pathogen was found. It tells you which type of infection you have. If more than one part of the panel was positive, it means you may be infected with more than one pathogen. This is known as a co-infection.
+Based on your results, your provider will recommend treatment and/or order more tests. These may include a bacteria culture, viral blood tests, and a Gram stain. The tests may help confirm your diagnosis and guide treatment.
+If you have questions about your results, talk to your provider. To understand the results of a respiratory pathogens panel, your provider may consider your symptoms, medical history, and the results of other blood tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

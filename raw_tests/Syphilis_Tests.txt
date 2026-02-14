@@ -1,0 +1,8 @@
+Test Name: Syphilis Tests
+URL: https://medlineplus.gov/lab-tests/syphilis-tests/
+--- CONTENT ---
+If your screening test results are negative (normal), it means you probably don't have a syphilis infection. However, it doesn't completely rule out the possibility. Antibodies can take a couple of weeks to develop. So, you may need another screening test if you think you were exposed to syphilis. Your provider can tell you whether you need another test.
+If your screening test results are positive, it means you have antibodies that may be from a syphilis infection. Your provider will likely order a second test to confirm whether or not you have syphilis.
+If your follow-up test confirms you have syphilis, you will probably be treated with penicillin, a type of antibiotic. Antibiotic treatment cures most early-stage syphilis infections. Later-stage syphilis is also treated with antibiotics, but this treatment can't undo any damage that the syphilis caused.
+If you have questions about your test results, or about syphilis, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

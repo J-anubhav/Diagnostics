@@ -1,0 +1,14 @@
+Test Name: CEA Test
+URL: https://medlineplus.gov/lab-tests/cea-test/
+--- CONTENT ---
+To understand your CEA test results, your provider will consider the results of other tests and exams. Ask your provider to explain what your test results mean for your health and treatment.
+If you had a test before starting cancer treatment, in general:
+A low level of CEA may mean your tumor is small and the cancer has not spread to other parts of your body. But some cancers don't make much CEA, so your provider may use other tests to learn more about how much cancer you have and if it's spread.
+A high level of CEA may mean you have a larger tumor and/or your cancer has spread. You'll need other tests to confirm how serious your cancer is.
+If you had a test to monitor your cancer during or after treatment, your provider will compare your current CEA test results with your past test results. In general:
+Decreases in CEA over time often mean that treatment is working.
+Increases in CEA or high levels that stay high may mean that treatment isn't working. For example, if you had surgery for colorectal cancer, these levels may mean that the entire tumor wasn't removed or the cancer is growing back.
+Decreases in CEA after treatment followed by increases may mean cancer has come back.
+CEA levels that remain high or increase after treatment don't always mean that treatment isn't working, or cancer is growing. So, if your CEA levels don't come down, your provider will likely order other tests to find out why.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

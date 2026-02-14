@@ -1,0 +1,10 @@
+Test Name: Herpes (HSV) Test
+URL: https://medlineplus.gov/lab-tests/herpes-hsv-test/
+--- CONTENT ---
+The meaning of your test results depends on the type of HSV test you had. To understand your results, your provider will consider your health history and any symptoms you have.
+In general:
+Negative/Normal test results mean that signs of the herpes virus were not found in your sample, and you are unlikely to have an HSV infection. It's important to know that you can have a negative result when you really do have a herpes infection if you had a blood test for HSV antibodies too soon after an infection began. That's because your body takes up to three months to make HSV antibodies.
+Positive/Abnormal test results mean that signs of HSV were found in your sample. If you had a blood test that showed you have HSV antibodies, the antibodies could be from an active infection now or a past infection.
+If you have HSV, treatment can help reduce the number of outbreaks and control your symptoms. It's important to know that having an HSV infection may increase your risk of getting HIV and other STIs. So, talk with your provider about HIV testing along with testing for other STIs.
+It's also important to take steps to avoid spreading HSV to others. Using condoms can help. Since outbreaks come and go, ask your provider how to know when your risk for spreading the herpes virus may be high.
+Learn more about laboratory tests, reference ranges, and understanding results.

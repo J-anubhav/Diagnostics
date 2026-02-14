@@ -1,0 +1,7 @@
+Test Name: White Blood Cell (WBC) in Stool
+URL: https://medlineplus.gov/lab-tests/white-blood-cell-wbc-in-stool/
+--- CONTENT ---
+A positive or abnormal test result means that white blood cells were found in your stool sample. That means you have inflammation in your digestive tract. This information helps rule out conditions that don't cause inflammation, including viral infections, certain bacteria, and most parasites. Other tests can help find out what is causing your illness.
+A negative or normal test result means that no white blood cells were found in your stool sample. That may mean that inflammation isn't causing your illness. But a normal test result can't rule out conditions that cause inflammation. That's because white blood cells don't last long in a stool sample.
+If your stool sample contained a small number of cells that broke apart during testing, they may not show up. So, you could have inflammation in your digestive system even though your test didn't find any white blood cells in your stool.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,22 @@
+Test Name: Blood Differential
+URL: https://medlineplus.gov/lab-tests/blood-differential/
+--- CONTENT ---
+Your blood differential test results may be higher or lower than normal for many reasons.
+Conditions that may cause a high white blood cell count, also called leukocytosis, can include:
+Infections
+Autoimmune or inflammatory disorders
+Leukemia or Hodgkin disease
+Allergic reactions
+Certain steroids
+Conditions that may cause a low white blood cell count, also called leukopenia, can include:
+Bone marrow diseases
+Chemotherapy
+Certain medicines, such as antibiotics
+Cancer
+HIV
+But abnormal results don't always mean you have a condition that needs medical treatment. Some other factors that may affect your results can include:
+Physical injury or extreme stress
+Smoking
+Alcohol use
+If your results seem abnormal, your provider may order other tests to help figure out the cause. If you have questions about your results, talk with your provider. To understand your results, your provider will also consider your symptoms, medical history, and the results of other blood tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

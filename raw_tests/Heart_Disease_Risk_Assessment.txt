@@ -1,0 +1,18 @@
+Test Name: Heart Disease Risk Assessment
+URL: https://medlineplus.gov/lab-tests/heart-disease-risk-assessment/
+--- CONTENT ---
+Heart disease risk assessment results are calculated based on data from clinical studies on heart disease. Your answers will be compared with patient data from these studies. Your results will be given as a percentage.
+A lower percentage means you have less risk of developing heart disease. 
+A higher percentage means you have a greater risk. If your percentage is high, your provider may recommend steps to lower your risk.
+Some risk factors, such as age and family history, can't be controlled. But you can take steps to lower your risk for some factors, for example by:
+Eating a healthy diet 
+Getting regular physical activity
+Limiting alcohol use
+Quitting smoking.
+Managing stress and health conditions such as diabetes, high blood pressure, or high cholesterol
+These steps can benefit all adults.
+If you are at a high risk of heart disease, your provider may also recommend medicines. These medicines may be used to treat health conditions which raise your risk or to help prevent certain heart diseases:  They may include:
+Medicines to lower cholesterol, such as statins.
+Blood pressure medicines, also called antihypertensives
+Blood thinners, which may help prevent heart attacks and strokes. This may include taking a daily aspirin. But aspirin therapy has some risks and is only recommended for people with certain risk factors for heart disease. Talk to your provider about the risks and benefits before you start taking a daily aspirin.
+If you have questions about your results, talk to your provider.

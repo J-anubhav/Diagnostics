@@ -1,0 +1,11 @@
+Test Name: Malaria Tests
+URL: https://medlineplus.gov/lab-tests/malaria-tests/
+--- CONTENT ---
+If the results of your malaria test are negative, it means that no signs of malaria parasites were found in your blood sample. But this doesn't rule out malaria. That's because the number of malaria parasites in your blood can vary over time. If you have a negative result, more blood samples are usually taken every 12-24 hours for a total of 3 sets of tests. If these test results are all negative, you probably don't have malaria.
+If the results of your malaria test are positive, it means you have malaria. Your provider will prescribe medicine right away. The medicine you take will depend on:
+The type of malaria parasite you have
+Whether the parasite has become resistant to certain medicines
+Your symptoms and medical history
+Whether you are pregnant
+When treated early, malaria can usually be cured. If your provider strongly believes you have a serious case of malaria, you may start treatment before test results confirm you have the disease.
+Learn more about laboratory tests, reference ranges, and understanding results.

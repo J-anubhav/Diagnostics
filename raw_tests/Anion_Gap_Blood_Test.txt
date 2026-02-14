@@ -1,0 +1,16 @@
+Test Name: Anion Gap Blood Test
+URL: https://medlineplus.gov/lab-tests/anion-gap-blood-test/
+--- CONTENT ---
+Normal results may vary by lab. Your anion gap results may be based on the results of an electrolyte panel, a basic metabolic panel (BMP), a comprehensive metabolic panel (CMP), or a renal function panel (RFP).
+Several types of medical conditions can cause abnormal anion gap test results. Your provider will use the results of this test, your medical history, and other tests to make a diagnosis.
+A high anion gap test result may mean that you may have acidosis, which may be caused by:
+Dehydration
+Diarrhea
+Too much exercise
+Kidney diseases
+Diabetes or diabetic ketoacidosis
+Salicylate poisoning, for example from too much aspirin 
+Antifreeze poisoning
+A low anion gap test result may mean you have alkalosis. But this result is so rare that your provider will usually have you tested again to make sure the results are accurate.
+The most common cause of a low anion gap is a low level of albumin, a protein in the blood. Low albumin may be a sign of not eating enough protein, kidney problems, liver disease, heart disease, or some types of cancer.
+Learn more about laboratory tests, reference ranges, and understanding results.

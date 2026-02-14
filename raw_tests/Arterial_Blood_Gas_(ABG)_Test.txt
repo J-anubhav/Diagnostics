@@ -1,0 +1,12 @@
+Test Name: Arterial Blood Gas (ABG) Test
+URL: https://medlineplus.gov/lab-tests/arterial-blood-gas-abg-test/
+--- CONTENT ---
+ABG test results involve many body systems that affect each other. There are also many health conditions that can cause abnormal results. For these reasons, it's best to have your provider explain what your results mean for your health.
+Generally, for each of the following measurements, your ABG test results will also list their normal ranges:
+Oxygen saturation (O2Sat). 95-100%.
+Partial pressure of oxygen (PaO2). 75-100 millimeters of mercury (mmHg).
+Partial pressure of carbon dioxide (PaCO2). 35-45 mmHg.
+Acid-base balance (pH level). 7.35-7.45.
+Bicarbonate (HCO3). 22-26 milliequivalents per liter (mEq/L).
+An ABG test alone usually can't provide a diagnosis. So, if your results are not normal, your provider will likely order more tests. In general, abnormal results may mean you have a problem with your lungs or kidneys or a metabolic disorder. Metabolic disorders affect how your body uses food for energy.
+Learn more about laboratory tests, reference ranges, and understanding results.

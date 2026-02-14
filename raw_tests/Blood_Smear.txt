@@ -1,0 +1,25 @@
+Test Name: Blood Smear
+URL: https://medlineplus.gov/lab-tests/blood-smear/
+--- CONTENT ---
+The results of a blood smear alone usually can't diagnose a medical condition. Your provider will use your test results combined with your medical history, symptoms, and the results of other tests to make a diagnosis.
+Your blood smear results will describe what your blood cells look like and how many there are. The results will also show anything else that's unusual about your blood, for example, if any parasites were found.
+Red blood cell results that aren't normal, may be a sign of conditions, such as:
+Anemia
+Sickle cell disease
+Hemolytic anemia, a type of anemia that causes your body to destroy red blood cells faster than it makes them
+Thalassemia
+Bone marrow disorders
+White blood cell results that aren't normal may be a sign of conditions, such as:
+Infection
+Leukemia
+Bone marrow disorders
+Platelet results that aren't normal may be a sign of conditions, such as:
+Thrombocytopenia, a lower-than-normal number of platelets. This may increase your risk of bleeding.
+Thrombocytosis, a higher-than-normal number of platelets that is caused by another disease or condition, such as anemia, or an infection. Having too many platelets can cause blood clots to form in your blood vessels (the tubes that carry blood in your body).
+Thrombocythemia, a higher-than-normal number of platelets that is caused by a problem with the cells in your bone marrow that make platelets.
+Other conditions can also cause abnormal blood smear results, including:
+Severe illness
+Stress
+Blood transfusions
+If your blood smear results are not normal, your provider may order more tests to help find the cause. Talk with your provider to learn more about your results.
+Learn more about laboratory tests, reference ranges, and understanding results.

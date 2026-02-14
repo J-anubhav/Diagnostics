@@ -1,0 +1,22 @@
+Test Name: MPV Blood Test
+URL: https://medlineplus.gov/lab-tests/mpv-blood-test/
+--- CONTENT ---
+An MPV test alone can't diagnose a health condition. Your provider will use your MPV results, platelet counts, and other test results to get a more complete picture of your health.
+Newly made platelets are larger than older platelets. So looking at the average size of your platelets can provide information about whether your bone marrow is making a lot of new platelets.
+With a high MPV test result, your platelets are larger than usual. This may mean that your older (smaller) platelets are being destroyed at an increased rate and your bone marrow is making many new platelets. That can be a sign of:
+Thrombocytopenia, not having enough platelets
+Myeloproliferative diseases, blood cancers in which the bone marrow makes too many platelets or other blood cells
+Preeclampsia, a complication that usually starts after the 20th week of pregnancy and causes high blood pressure
+Heart disease
+Diabetes
+Hemolytic anemia
+With a low MPV test result, your platelets are smaller than usual. This may mean your bone marrow isn’t making enough new platelets. That can be a sign of:
+Certain cancers
+Side effects from certain medicines
+Aplastic anemia
+Autoimmune diseases
+Bacterial or viral infections
+Genetic conditions
+Alcohol use disorder (AUD)
+To learn what your results mean, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

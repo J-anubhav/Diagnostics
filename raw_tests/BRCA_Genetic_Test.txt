@@ -1,0 +1,9 @@
+Test Name: BRCA Genetic Test
+URL: https://medlineplus.gov/lab-tests/brca-test/
+--- CONTENT ---
+Your provider or genetic counselor will need to explain how your results affect your risk for certain cancers. That's because the meaning of your test results depends on the exact type of BRCA variant you have and your personal and family health history.
+In general, your results may be reported using these terms:
+A negative (normal) result means that the test didn't find any harmful changes in your BRCA genes. How this affects your cancer risk depends on whether you've already had cancer and whether a member of your family has a harmful BRCA variant.
+An uncertain result may also be called a "variant of uncertain significance (VUS)". It means that a variant in your BRCA genes was found, but researchers don't know whether that variant causes cancer.
+A positive result may also be called a "likely pathogenic variant." It means that you have a harmful gene variant that is known to increase the risk of certain cancers. But the test cannot tell whether you will develop cancer.
+Learn more about laboratory tests, reference ranges, and understanding results.

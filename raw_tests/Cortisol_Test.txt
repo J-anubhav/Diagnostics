@@ -1,0 +1,29 @@
+Test Name: Cortisol Test
+URL: https://medlineplus.gov/lab-tests/cortisol-test/
+--- CONTENT ---
+A cortisol test alone can't diagnose the cause of abnormal cortisol levels. If your cortisol level isn't normal, you will usually have more tests to find out what is causing the problem.
+High levels of cortisol may be a sign that you have Cushing's syndrome. It may be caused by:
+Taking high doses of certain steroid medicines for a long time to treat conditions, such as asthma, rheumatoid arthritis, or lupus.
+Tumors that make extra ACTH, which tells your adrenal glands to make cortisol. These tumors may be in your pituitary gland or other parts of your body, including your lungs.
+Tumors in your adrenal glands that make extra cortisol.
+Low levels of cortisol may mean you have Addison disease or secondary adrenal insufficiency:
+Common causes of Addison disease include damage to your adrenal glands from conditions, such as:
+
+Autoimmune diseases
+Certain infections, including tuberculosis (TB) and HIV
+
+
+Common causes of secondary adrenal insufficiency include:
+
+Autoimmune diseases
+Problems with your pituitary gland
+Traumatic brain injury
+Surgical removal of your pituitary gland to treat other conditions
+If your cortisol results aren't normal, it doesn't always mean you have a medical condition that needs treatment. The most common cause of abnormal cortisol levels is taking steroid medicines for a long time or suddenly stopping them. Cortisol levels can also be affected by:
+Stress
+Pregnancy
+Exercise
+Hot and cold temperatures
+Certain medicines, such as birth control pills
+To learn what your test results mean, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

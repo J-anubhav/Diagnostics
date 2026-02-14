@@ -1,0 +1,24 @@
+Test Name: Thyroxine (T4) Test
+URL: https://medlineplus.gov/lab-tests/thyroxine-t4-test/
+--- CONTENT ---
+If you had a free T4 test, your test results may be reported as "free T4." If you had a total T4 test, your results may be reported as "free T4 index (FTI)." FTI is the amount of free T4 in your blood based on a calculation using your total T4 test results.
+To fully understand your results, your provider will usually need to compare them with the results of other thyroid tests. So, it's best to talk with your provider about what your results mean.
+In general, T4 results that are lower than normal may be a sign of:
+Hypothyroidism
+Hashimoto's disease, an autoimmune disorder that causes your immune system to attack your thyroid
+Certain stages of thyroiditis (inflammation of the thyroid)
+A pituitary problem (uncommon) or getting too much or too little iodine in your diet
+Congenital hypothyroidism
+Low T4 levels may also be caused by treatment for hyperthyroidism or thyroid cancer, including thyroid radiation therapy, radioactive iodine, and surgery to remove all or part of your thyroid.
+In general, T4 results that are higher than normal may be a sign of:
+Hyperthyroidism
+Graves' disease, an autoimmune disorder that causes your immune system to attack your thyroid
+Certain stages of thyroiditis
+Toxic goiter, an enlarged thyroid that makes too much thyroid hormone
+Toxic thyroid nodule, a lump growing in the thyroid that makes large amounts of thyroid hormone on its own
+Too much iodine, which is found in certain medicines and seaweed
+A noncancerous (not cancer) tumor in your pituitary gland
+Taking too much thyroid hormone medicine to treat hypothyroidism
+A pituitary problem (uncommon)
+If your T4 results are abnormal, you may need more testing to find the cause. But abnormal T4 levels don't always mean you have a medical condition that needs treatment. Many things can affect your T4 levels, including severe illness and certain medicines, such as birth control pills and steroids.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,10 @@
+Test Name: Acid-Fast Bacillus (AFB) Tests
+URL: https://medlineplus.gov/lab-tests/acid-fast-bacillus-afb-tests/
+--- CONTENT ---
+If your results on an AFB smear or culture were negative, you probably don't have active TB. But it could also mean there weren't enough bacteria in the sample for your provider to make a diagnosis.
+If your AFB smear was positive, it means you probably have TB or another mycobacterial infection, but an AFB culture is needed to confirm the diagnosis. Culture results can take several weeks, so your provider may decide to treat your infection in the meantime.
+If your AFB culture was positive, it means you have active TB or another type of AFB infection. The culture can identify which type of infection you have.
+If your molecular (NAAT) test was positive, it means you probably have TB or another kind of AFB infection.
+Once you have been diagnosed, your provider may order a "susceptibility test" on your sample. A susceptibility test is used to help determine which antibiotic will provide the most effective treatment.
+If you have the signs and symptoms of an active AFB infection, your provider will consider both your AFB smear and NAAT molecule test results when deciding whether to treat you for TB or any other mycobacterial infection while you wait for the culture results. If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

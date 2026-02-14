@@ -1,0 +1,6 @@
+Test Name: Bacteria Culture Test
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+--- CONTENT ---
+If harmful bacteria are found in your sample, it usually means you have a bacterial infection. The test should also identify what type of bacteria is causing the infection. Your provider may order more tests to confirm the diagnosis or to see how serious the infection is.
+Your provider may also order a test to determine which medicine will best treat the type of bacteria causing your infection. This test is called an antibiotic sensitivity test or a susceptibility test. It checks to see how sensitive the bacteria are to different antibiotic medicines. If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

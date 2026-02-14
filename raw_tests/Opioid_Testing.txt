@@ -1,0 +1,13 @@
+Test Name: Opioid Testing
+URL: https://medlineplus.gov/lab-tests/opioid-testing/
+--- CONTENT ---
+Your test results depend on the type of opioid testing you had.
+Tests to screen for drugs in your system only show whether opioids are in your sample. They can't show what kind or how much:
+Positive results mean that opioids were found.  But positive test results may not be accurate (false positives), so follow-up testing is usually required to confirm the results.
+Negative results mean that either:
+
+No opioids were found in your sample. That may be because you haven't taken any, or you took them but they are no longer in your body.
+A very small amount of opioids was found, but too little to be called a positive test result. In certain cases, follow-up tests may be done to get more information.
+Confirmation tests may be done if there is a question about the results of a screening test. These tests can show more detail about the amount and/or type of opioids found in your sample.
+Opioid test results can be complicated to understand. They may be affected by how fast your body uses opioids, other medicines you take, and the different ways labs do the tests. So, it's best to ask your provider to explain what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

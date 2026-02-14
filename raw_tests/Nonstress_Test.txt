@@ -1,0 +1,8 @@
+Test Name: Nonstress Test
+URL: https://medlineplus.gov/lab-tests/nonstress-test/
+--- CONTENT ---
+Nonstress test results are given as one of the following:
+Reactive or Reassuring. This means your baby's heart rate increased two or more times during the testing period.
+Nonreactive. This means your baby's heartbeat didn't increase when moving or the baby wasn't moving much.
+A nonreactive result doesn't always mean your baby has a health problem. Your baby may have been asleep and not easily awoken. Nonreactive results may also be caused by certain medicines taken during pregnancy. But if the result was nonreactive, your provider will probably take more tests to find out if there is cause for concern. If your baby is found to be at risk, you may need treatment or monitoring, or to have labor induced if it is late enough in your pregnancy.
+If you have questions about your results, talk to your provider.

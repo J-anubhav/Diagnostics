@@ -1,0 +1,8 @@
+Test Name: Growth Hormone Tests
+URL: https://medlineplus.gov/lab-tests/growth-hormone-tests/
+--- CONTENT ---
+If GH levels don't increase to a certain level during a GH stimulation test, it may mean that there is a GH deficiency.
+If your child is diagnosed with GH deficiency, they may benefit from treatment with GH supplementation. GH supplementation is an injected medicine that contains manufactured human growth hormone. When GH deficiency is diagnosed and treated early, some children can grow several inches in the first year of treatment. Others grow less and more slowly but still benefit from treatment.
+If GH levels don't decrease to a certain level during a GH stimulation test, it may mean that there is a GH excess. For your child, this could mean they have gigantism. For you, it may mean you have acromegaly.
+Gigantism and acromegaly are most often caused by a tumor in the pituitary gland. Treatment for the tumor may include radiation therapy, surgery, and/or medicine. But if the cause is not a tumor, you or your child may need more tests to identify the cause.
+Learn more about laboratory tests, references ranges, understanding results.

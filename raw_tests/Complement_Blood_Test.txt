@@ -1,0 +1,19 @@
+Test Name: Complement Blood Test
+URL: https://medlineplus.gov/lab-tests/complement-blood-test/
+--- CONTENT ---
+If your results show decreased levels or activity of complement proteins, it may mean that your body is trying to get rid of foreign substances or attacking its own tissues.
+Decreased levels may be a sign of the following conditions:
+Lupus.
+Rheumatoid arthritis.
+Cirrhosis, scarring of the liver.
+Certain types of kidney disease.
+Hereditary angioedema, a rare but serious disorder of the immune system. It can cause swelling of the face and airways.
+Malnutrition.
+A recurring infection (usually bacterial).
+If your results show increased levels or activity of complement proteins, it may mean that your body has acute or chronic inflammation.
+Increased levels may be a sign of the following conditions:
+Certain types of cancer, such as leukemia or non-Hodgkin lymphoma
+Ulcerative colitis, a condition in which the lining of the large intestine and rectum become inflamed
+If you are being treated for lupus or another autoimmune disease, increased levels or activity of complement proteins may mean your treatment is working.
+Increased or decreased complement levels can also be a sign of a condition affecting your immune system. If you have questions about your results, talk to your provider. They will consider your symptoms, medical history, and the results of other blood tests to determine if additional tests are needed to make a diagnosis.
+Learn more about laboratory tests, reference ranges, and understanding results.

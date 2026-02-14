@@ -1,0 +1,9 @@
+Test Name: Prenatal Panel
+URL: https://medlineplus.gov/lab-tests/prenatal-panel/
+--- CONTENT ---
+If your results were not normal, you and/or your baby might get treatment to prevent serious health conditions. Examples of some abnormal results and treatments can include:
+Rh incompatibility. You will receive medicine that prevents your body from making the antibodies that may damage your baby's red blood cells.
+Infections (hepatitis, STIs, HIV). You will receive medicine to treat the infection. If you have a hepatitis B infection, your baby will get a vaccine within a few hours of birth.
+No immunity to rubella. You'll need to avoid anyone who has rubella while you are pregnant. After your baby is born, you should get vaccinated.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, references ranges, understanding results.

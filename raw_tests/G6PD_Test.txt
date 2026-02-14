@@ -1,0 +1,7 @@
+Test Name: G6PD Test
+URL: https://medlineplus.gov/lab-tests/g6pd-test/
+--- CONTENT ---
+If your results show you have lower than normal amounts of G6PD, it means you have a G6PD deficiency. But your symptoms and risk of getting hemolytic anemia can vary, depending on your personal health history and exposure to triggers.
+If you are a woman with slightly lower than normal amounts of G6PD, you may be a carrier of a G6PD deficiency. That means you have one defective G6PD gene and one normal G6PD gene. You might not have symptoms, since your normal G6PD genes usually make enough healthy red blood cells.  But you have a risk of passing on the defective gene to your children. Male children are more likely to develop G6PD symptoms than female children.
+If you are a man with a normal amount of G6PD, you are unlikely to have a deficiency. If you have anemia, it may be due to another cause. Your provider may want to repeat the G6PD test in a few weeks if you had the test during an episode of hemolytic anemia.
+Learn more about laboratory tests, references ranges, and understanding results.

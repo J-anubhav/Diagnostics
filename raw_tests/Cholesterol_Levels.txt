@@ -1,0 +1,45 @@
+Test Name: Cholesterol Levels
+URL: https://medlineplus.gov/lab-tests/cholesterol-levels/
+--- CONTENT ---
+Cholesterol is usually measured in milligrams (mg) of cholesterol per deciliter (dL) of blood. The information below will help you understand what your test results mean. In general, low LDL levels and high HDL cholesterol levels are good for heart health.
+Anyone age 19 or younger:
+Type of Cholesterol
+Healthy Level
+
+Total Cholesterol
+Less than 170 mg/dL
+Non-HDL
+Less than 120 mg/dL
+LDL
+Less than 110 mg/dL
+HDL
+More than 45mg/dL
+
+Men age 20 or older:
+Type of Cholesterol
+Healthy Level
+
+Total Cholesterol
+Less than 200 mg/dL
+Non-HDL
+Less than 130 mg/dL
+LDL
+Less than 100 mg/dL
+HDL
+Greater than or equal to 60 mg/dL is best.
+ Levels less than 40 mg/dL are considered low.
+
+Women age 20 or older:
+Type of Cholesterol
+Healthy Level
+
+Total Cholesterol
+Less than 200 mg/dL
+Non-HDL
+Less than 130 mg/dL
+LDL
+Less than 100 mg/dL
+
+The LDL listed on your results may say "calculated." This means that your LDL level is an estimate based on your total cholesterol, HDL, and triglycerides. Your LDL level may also be measured "directly" from your blood sample. Either way, you want your LDL number to be low.
+A healthy cholesterol level for you may depend on your age, family history, lifestyle, and other risk factors for heart disease, such as high triglyceride levels. Your provider can explain what's right for you.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,18 @@
+Test Name: RDW (Red Cell Distribution Width)
+URL: https://medlineplus.gov/lab-tests/rdw-red-cell-distribution-width/
+--- CONTENT ---
+RDW results help your provider understand how much your red blood cells vary in size and volume. Results are usually shown as a percentage and compared to a reference range, which may vary depending on the lab used.
+A normal RDW result means your red blood cells are within the reference range. Even if your RDW results are normal, your red blood cells may still be larger or smaller than usual. You may still have anemia or another medical condition that may need treatment.
+A high RDW result means your red blood cells are higher than the reference range. This means that your red blood cells vary in size more than what is considered normal. This may be a sign of certain conditions, such as:
+Chronic liver disease
+Heart disease
+Diabetes
+Kidney disease
+Cancer, especially colorectal cancer
+A low RDW result means your red blood cells are below the reference range. This means that they are similar in size and close together. This is not a sign of anemia and isn't usually something to worry about.
+If you have questions about your results, talk to your provider. They will usually look at your RDW results along with the results of other blood tests. The combined test results can show a more complete picture of your red blood cells. This can help diagnose a variety of conditions, including:
+Iron deficiency
+Different types of anemia
+Thalassemia
+Sickle cell anemia
+Learn more about laboratory tests, reference ranges, and understanding results.

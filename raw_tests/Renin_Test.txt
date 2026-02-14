@@ -1,0 +1,18 @@
+Test Name: Renin Test
+URL: https://medlineplus.gov/lab-tests/renin-test/
+--- CONTENT ---
+If your results show a higher-than-normal amount of renin, it may be a sign of:
+Addison disease (also called adrenal insufficiency), a condition in which your adrenal glands don't make enough of certain hormones
+Cirrhosis, scarring of the liver
+Dehydration
+If your results show a lower-than-normal amount of renin, it may be a sign of:
+Primary aldosteronism (PA)
+Kidney disease
+Most often, your renin test results will be compared with your aldosterone test results. These results may show one of the following:
+Lower than normal renin/Lower than normal aldosterone. This may mean you have Cushing's syndrome, a disorder in which the adrenal glands make too much of a hormone called cortisol.
+Lower than normal renin/Higher than normal aldosterone. This may mean you have PA.
+Higher than normal renin/Lower than normal aldosterone. This may mean you have Addison disease.
+Higher than normal renin/Higher than normal aldosterone. This may mean you have secondary aldosteronism. With this disorder, your adrenal glands are healthy, but another medical condition is causing them to make too much aldosterone. These conditions can include diseases of the heart, liver, and kidneys.
+Depending on your results, your provider may recommend medicines and/or diet and lifestyle changes to treat your condition.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,7 @@
+Test Name: Comprehensive Metabolic Panel (CMP)
+URL: https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/
+--- CONTENT ---
+The results of your CMP test will usually list the levels of each of the 14 substances that were measured. To understand what your results mean, your provider will compare all the results. Your provider will also consider your health history, any medicines you take, and other things that could affect your test results. Ask your provider to explain what your CMP results say about your health.
+In general, if you have one or more results that aren't normal, it may be a sign of a health condition. For example, high blood glucose may be a sign of diabetes. You will likely need more tests to confirm or rule out a specific diagnosis.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

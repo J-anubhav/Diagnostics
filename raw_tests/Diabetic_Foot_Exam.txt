@@ -1,0 +1,6 @@
+Test Name: Diabetic Foot Exam
+URL: https://medlineplus.gov/lab-tests/diabetic-foot-exam/
+--- CONTENT ---
+Your provider will use the results of your exam to estimate your risk of developing foot ulcers and infections that could lead to amputation. If your risk is high, your provider will probably recommend that you have a complete diabetic foot exam more than once a year.
+If a problem is found that needs medical care, your treatment will depend on the type of problem and how serious it is. If you have questions about your diabetic foot exam, ask your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

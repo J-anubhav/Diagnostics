@@ -1,0 +1,70 @@
+Test Name: Electrolyte Panel
+URL: https://medlineplus.gov/lab-tests/electrolyte-panel/
+--- CONTENT ---
+Your results will include measurements for each electrolyte. Abnormal electrolyte levels can be caused by many different conditions, including:
+Dehydration.
+Kidney disease.
+Heart disease.
+Diabetes.
+Lung infection (such as tuberculosis).
+Malabsorption, a condition in which your body is not getting enough nutrients from the foods you eat.
+Liver disease.
+Acidosis, a condition in which you have too much acid in your blood. It can cause nausea, vomiting, and fatigue.
+Alkalosis, a condition in which you have too much base in your blood. It can cause irritability, muscle twitching, and tingling in the fingers and toes.
+An electrolyte imbalance can also happen if you take certain medicines, such as:
+Antibiotics
+Antacids, especially if you take large amounts
+Chemotherapy medicines
+Diuretics ("water pills"), which are used to treat high blood pressure and other conditions
+Steroid medicines
+Your specific results will depend on which electrolyte or electrolytes are affected and whether levels are too low or too high. If your electrolyte levels were not in the normal range, it doesn't necessarily mean you have a medical problem needing treatment. Many factors can affect electrolyte levels. These include taking in too much fluid or losing fluid because of vomiting or diarrhea. Also, certain medicines such as antacids and blood pressure medicines may cause abnormal results.
+An electrolyte imbalance means that the level of an electrolyte is too low or too high. The names of the imbalances are:
+Electrolyte
+Too low
+Too high
+
+Bicarbonate
+
+Acidosis
+
+Alkalosis
+
+Calcium
+
+Hypocalcemia
+
+Hypercalcemia
+
+Chloride
+
+Hypochloremia
+
+Hyperchloremia
+
+Magnesium
+
+Hypomagnesemia
+
+Hypermagnesemia
+
+Phosphate
+
+Hypophosphatemia
+
+Hyperphosphatemia
+
+Potassium
+
+Hypokalemia
+
+Hyperkalemia
+
+Sodium
+
+Hyponatremia
+
+Hypernatremia
+
+
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,12 @@
+Test Name: CA 19-9 Blood Test (Pancreatic Cancer)
+URL: https://medlineplus.gov/lab-tests/ca-19-9-blood-test-pancreatic-cancer/
+--- CONTENT ---
+If you're being treated for cancer, you may be tested several times during your treatment. Your provider will look at all your test results to see how your CA 19-9 levels have changed. Your results may show:
+Your levels of CA 19-9 are increasing. This may mean your tumor is growing, and/or your treatment is not working. More tests are usually needed to find out for sure.
+Your levels of CA 19-9 are decreasing. This may mean your tumor is shrinking and your treatment is working.
+Your levels of CA 19-9 have stayed the same. This may mean your disease is stable and hasn't gotten better or worse.
+Your CA 19-9 levels decreased after treatment but increased later. This may mean your cancer has come back or grown. You'll need more tests to check whether cancer is really causing the higher level of CA 19-9.
+If you don't have cancer but your test results show a high level of CA 19-9, you may not have a health problem that needs treatment. Healthy people can have high CA 19-9 levels. But high levels may be a sign of a condition, such as pancreatitis or gallstones.
+Talk with your provider about what your results may mean.
+If your provider thinks you may have one of these conditions, you will probably need other tests to find out for sure.
+Learn more about laboratory tests, reference ranges, and understanding results.

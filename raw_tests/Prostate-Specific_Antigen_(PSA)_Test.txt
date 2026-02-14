@@ -1,0 +1,14 @@
+Test Name: Prostate-Specific Antigen (PSA) Test
+URL: https://medlineplus.gov/lab-tests/prostate-specific-antigen-psa-test/
+--- CONTENT ---
+There is no specific normal or abnormal level for PSA in blood. In general, the higher your PSA level, the more likely it is that you have cancer. But it's possible to have a high PSA without prostate cancer, or a low PSA with prostate cancer.
+If you had a PSA test for a prostate cancer screening or because you have prostate symptoms:
+High PSA levels can mean you have prostate cancer or a prostate condition that's not cancer, such as an infection (causing prostatitis) or an enlarged prostate. If your PSA levels are higher than normal, your provider may talk with you about having more tests to diagnose the cause. These tests may include:
+
+Another PSA test, more commonly if you don't have any symptoms. PSA levels can go up and down, so it's helpful to see if your PSA levels change over time.
+A digital rectal exam (DRE). For this test, your provider inserts a gloved, lubricated finger into your rectum to feel your prostate for lumps or anything unusual.
+A urine test. A sample of your urine is tested for infection.
+A prostate biopsy. A biopsy is minor surgery. A provider removes samples of tissue from your prostate so it can be studied under a microscope to look for cancer cells. A biopsy is the only way to diagnose cancer. It may be recommended if your provider thinks you may have prostate cancer.
+If you had a PSA test to monitor prostate cancer or treatment, ask your provider what a high PSA level means. Your provider will usually look at several tests results over time to get a better understanding of your condition.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

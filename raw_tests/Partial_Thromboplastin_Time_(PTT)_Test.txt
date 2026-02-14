@@ -1,0 +1,21 @@
+Test Name: Partial Thromboplastin Time (PTT) Test
+URL: https://medlineplus.gov/lab-tests/partial-thromboplastin-time-ptt-test/
+--- CONTENT ---
+Your PTT test results will show how much time it took for your blood to clot. Results are usually given as a number of seconds. A PTT test is often ordered along with another blood test called a prothrombin time (PT) test. A PT test measures other clotting factors that a PTT test doesn't check. Your provider will usually compare the results of both tests to understand how your blood is clotting. Ask your provider to explain what your test results mean for your health.
+In general, if your blood took longer than normal to clot on a PTT test, it may be a sign of:
+Liver disease.
+A lack of vitamin K.
+Certain genetic disorders that you inherit from your parents. These disorders affect certain clotting factors and increase your risk of bleeding. They include:
+
+Von Willebrand disease.
+Hemophilia.
+
+
+Too much heparin.
+Certain types of leukemia.
+Autoimmune diseases, such as antiphospholipid antibody syndrome or lupus anticoagulant syndrome. These diseases cause your body to make proteins called antibodies. The antibodies related to these diseases cause too much clotting. But the results of a PTT test may show a slow clotting time. That's because the chemicals in the PTT test react with the antibodies in your blood sample. This chemical reaction makes the blood sample clot more slowly than the blood in your body. If your provider thinks that an autoimmune disease is causing a clotting problem, you will usually have other tests to make a diagnosis.
+If your blood clotted faster than normal on a PTT test, it may be a sign of:
+The early stage of disseminated intravascular coagulation (DIC). This rare but serious condition may develop if you have an infection or damage to organs or tissues that affects blood clotting. In the early stage, you have too much blood clotting. Later on, DIC starts to use up clotting factors in your blood, which leads to bleeding problems.
+Cancer of the ovaries, colon, or pancreas that is advanced, which means the cancer has spread to other parts of the body and is unlikely to be controlled with treatment.
+Talk with your provider to learn what your test results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

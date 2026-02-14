@@ -1,0 +1,9 @@
+Test Name: Pregnancy Test
+URL: https://medlineplus.gov/lab-tests/pregnancy-test/
+--- CONTENT ---
+Your results will show whether you're pregnant.
+A negative result means hCG wasn't found in your sample, so you may not be pregnant. However, this isn't always the case. If you did a home urine test too soon after getting pregnant, your body may not have made enough hCG to show up in the results. This is called a false-negative. A false negative result means your test shows that you aren't pregnant, but you really are.
+Because hCG levels increase every day during early pregnancy, it's a good idea to repeat the test a week after you took it the first time. If you get negative (not pregnant) results on two home tests, but you still think you're pregnant, call your provider.
+A positive result means that hCG was found in your sample. That usually means that you're pregnant. It's important to see your provider as soon as possible to make sure you get the right care. If you did a home test, your provider may do another test to confirm your pregnancy.
+In some cases, a home test may say that you're pregnant when you aren't. This is called a false-positive. A false-positive result means your test shows that you are pregnant, but you really aren't. Taking a pregnancy test while also taking fertility medicines could lead to a false-positive test result. If your results are positive but you think you might not be pregnant, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

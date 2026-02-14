@@ -1,0 +1,8 @@
+Test Name: Ketones in Blood
+URL: https://medlineplus.gov/lab-tests/ketones-in-blood/
+--- CONTENT ---
+A normal or negative test result usually means that your body is not making too many ketones and you don't have ketoacidosis. But a normal test result doesn't always rule out diabetic ketoacidosis (DKA). That's because your body makes three types of ketones. If DKA is in the early stages, only one type of ketone will be high, and lab tests often don't measure this type of ketone.
+A high or positive test result means you have ketones in your blood. It's normal to have some blood ketones, but if your levels are very high and you have symptoms, you may have ketoacidosis. If you have diabetes, you likely have DKA. If you don't have diabetes, you may have ketoacidosis from alcohol use disorder, malnutrition, not eating for very long periods of time, or other conditions.
+Ketoacidosis from any cause must be treated. Treatment may include going to the hospital.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

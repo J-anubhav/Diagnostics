@@ -1,0 +1,15 @@
+Test Name: Insulin in Blood
+URL: https://medlineplus.gov/lab-tests/insulin-in-blood/
+--- CONTENT ---
+To understand what your insulin test results mean, your provider will consider your medical history and results of other tests, including a blood glucose test. For example:
+If your insulin level is high and your blood glucose is normal or a little above normal for you, you may have insulin resistance.
+If your insulin level is high or normal and your blood glucose is low for you, you may have hypoglycemia from too much insulin. Possible causes include:
+
+A pancreatic tumor (insulinoma)
+Cushing's syndrome
+Taking too much insulin for diabetes
+
+
+If your insulin level is low and your blood glucose is high for you, it may mean that your pancreas can't make enough insulin. Possible causes include type 1 diabetes and pancreatitis.
+There are other possible causes of abnormal levels of insulin and glucose. Ask your provider to explain what your test results say about your health.
+Learn more about laboratory tests, reference ranges, and understanding results.

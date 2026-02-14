@@ -1,0 +1,13 @@
+Test Name: Bilirubin Blood Test
+URL: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
+--- CONTENT ---
+The results will show if the amount of bilirubin in your blood is in the normal range. The normal ranges can vary from lab to lab.
+If the results are outside your lab's reference range, you may need further testing. Normal results can vary based on the lab, your sex, and if the test is being done on an infant or child. but high bilirubin levels may mean your liver isn't working right.
+High bilirubin levels (hyperbilirubinemia) may be due to:
+Hemolytic anemia
+Liver disease
+Blockage in your bile ducts
+Low bilirubin levels (hypobilirubinemia) are not usually a cause for concern but may be due to:
+Medicines such as antibiotics, birth control pills, sleeping pills, and seizure medicines
+Abnormal results don't always mean you have a medical condition that needs treatment. Higher-than-normal bilirubin levels can also be caused by some medicines, certain foods, or strenuous exercise. To learn what your results mean, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

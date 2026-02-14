@@ -1,0 +1,25 @@
+Test Name: Pleural Fluid Analysis
+URL: https://medlineplus.gov/lab-tests/pleural-fluid-analysis/
+--- CONTENT ---
+A pleural fluid analysis usually includes results from several tests done on your fluid sample. Your provider will consider all your test results, your symptoms, and your medical history to understand what your results mean. Ask your provider to explain what your test results say about your health.
+In general, the results of your pleural fluid analysis will show which type of fluid is in your pleural space. There are two main types of fluid, and each type has different possible causes. To find out which type of fluid you have, your test usually uses a set of guidelines called Light's criteria.
+Light's criteria tell providers how to compare the amount of certain proteins in your pleural fluid to the amount of those proteins measured in your blood. The results of the comparison will show whether your pleural fluid is transudate or exudate:
+Transudate is a watery fluid that has low amounts of protein. It's caused by pressure in your blood vessels. The pressure makes fluid leak from your blood vessels into the pleural space.  Transudate fluid is most often caused by:
+
+Heart failure
+Kidney disease
+Liver disease, including cirrhosis
+
+
+Exudate is a cloudy fluid that has high amounts of protein. It can be caused by conditions that involve inflammation, infections, and other conditions that affect blood vessels or lymphatic vessels, which are part of your immune system. These conditions include:
+
+Pancreatitis
+Certain autoimmune diseases, including rheumatoid arthritis and lupus
+Cancer, most often leukemia, lymphoma, breast or lung cancer
+Lung diseases that aren't cancer, including infections, such as pneumonia or tuberculosis
+Lung or chest injuries
+Exudate contains different substances depending on the condition that caused it.  For example, exudate from an infection may have signs of pus, bacteria, or fungus.  Exudate from cancer usually has cancer cells. A chest injury may cause exudate that includes blood.
+To help find the specific cause of your pleural effusion, your provider will order other tests on your fluid sample to check for certain substances. The tests you have will depend on the most likely causes of your pleural effusion, based on all the information about your condition.
+In certain cases, you may also need other types of tests, including blood and/or urine tests, imaging tests, a bronchoscopy, or a biopsy.
+If you have questions about your test results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

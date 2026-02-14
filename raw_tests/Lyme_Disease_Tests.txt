@@ -1,0 +1,16 @@
+Test Name: Lyme Disease Tests
+URL: https://medlineplus.gov/lab-tests/lyme-disease-tests/
+--- CONTENT ---
+Lyme disease is difficult to diagnose. The symptoms are common to many conditions, and test results alone can't diagnose the disease. To make a diagnosis, your provider will consider your test results along with your medical history, exposure, and symptoms. You may also need other tests.
+A negative blood test result means that antibodies to fight the Lyme disease bacteria were not found in your blood.  If you had symptoms for longer than 30 days before your test, you probably don't have Lyme disease.
+
+But if you had symptoms for less than 30 days before you gave your blood sample, you may need to have another Lyme disease test. That's because it may take a few weeks for your body to make enough antibodies to show up on a test. If your test was done too soon, you could be infected even though your test was negative. This is called a "false negative."
+
+A positive blood test result means that antibodies to fight the Lyme disease bacteria were found in your blood. In this case, the Centers for Disease Control and Prevention (CDC) recommends a second blood test on the same blood sample. If the second test is positive and you have symptoms of infection, you probably have Lyme disease.
+But positive test results don't always mean that Lyme disease is causing your symptoms. You could have antibodies from a past case of Lyme disease that your body successfully fought off months or even years ago.
+It's also possible to have a "false positive." That means you don't have antibodies that fight Lyme disease bacteria, even though the test says you do. The test may have mistakenly found antibodies that fight other bacteria or diseases, such as certain autoimmune diseases. And it's possible that these diseases are causing your symptoms, not Lyme disease.
+The results from a CSF test can help show whether Lyme disease has spread to your nervous system.
+A negative CSF test result means that no Lyme disease antibodies were found in your CSF. But it doesn't rule out Lyme disease in your nervous system. You may need more tests.
+A positive CSF test result means that Lyme disease antibodies were found in your CSF. If more antibodies were in your CSF than in your blood, it's possible that Lyme Disease has spread to your nervous system.
+Your provider will prescribe antibiotic medicine if you are likely to have Lyme disease. Most people who are treated with antibiotics in the early stage of the disease will recover completely.
+Learn more about laboratory tests, reference ranges, and understanding results.

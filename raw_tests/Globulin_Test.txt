@@ -1,0 +1,15 @@
+Test Name: Globulin Test
+URL: https://medlineplus.gov/lab-tests/globulin-test/
+--- CONTENT ---
+Low globulin levels may be a sign of:
+Liver disease
+Kidney disease
+Malnutrition
+High globulin levels may be a sign of:
+Infection
+Inflammatory disease
+An immune disorder
+Certain cancers, such as multiple myeloma, Hodgkin lymphoma (also called Hodgkin disease), or malignant lymphoma
+Tuberculosis
+Certain medicines, dehydration, pregnancy, or other conditions may also cause abnormal results. Talk with your provider to learn what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

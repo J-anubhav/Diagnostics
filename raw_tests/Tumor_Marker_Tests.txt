@@ -1,0 +1,77 @@
+Test Name: Tumor Marker Tests
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+--- CONTENT ---
+Your results will vary depending on the kind of tumor marker your provider tested for. Some tumor markers are linked with only one type of cancer. Others are linked to many different types. Some of the most common tumor markers are:
+CA (Cancer antigen) 125
+
+
+
+Tumor marker for:
+ovarian cancer
+Used to:
+
+
+See if cancer treatment is working
+See if cancer has come back after you've finished treatment
+
+
+CA 15-3 and CA 27-29 (cancer antigens 15-3 and 27-29)
+
+Tumor markers for:
+breast cancer
+Used to:
+Monitor treatment in people with advanced breast cancer
+
+
+PSA (prostate-specific antigen)
+
+Tumor marker for:
+prostate cancer
+Used to:
+
+
+Screen for prostate cancer
+Help diagnose prostate cancer
+Monitor treatment
+Check to see if cancer has come back after you've finished treatment
+
+
+CEA (carcinoembryonic antigen)
+
+Tumor marker for:
+colorectal cancer, and cancers of the lung, stomach, thyroid, pancreas, breast, and ovary
+Used to:
+
+
+See if cancer treatment is working
+See if cancer has come back after you've finished treatment
+
+
+AFP (Alpha-fetoprotein)
+
+
+
+Tumor marker for:
+liver cancer, and cancers of the ovary or testicles
+Used to:
+
+
+Help diagnose liver cancer
+Find out if cancer has spread (the stage of cancer)
+See if cancer treatment is working
+Predict chances for recovery
+
+
+B2M (Beta 2 macroglobulin)
+
+
+
+Tumor marker for:
+multiple myeloma, some lymphomas, and leukemias
+Used to:
+
+
+See if cancer treatment is working
+Predict chances for recovery
+Your provider will review your tumor marker test results along with other information about your condition. Together, you can discuss how your results affect your diagnosis, treatment, and schedule for future testing.
+Learn more about laboratory tests, reference ranges, and understanding results.

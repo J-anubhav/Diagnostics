@@ -1,0 +1,10 @@
+Test Name: Thyroglobulin
+URL: https://medlineplus.gov/lab-tests/thyroglobulin/
+--- CONTENT ---
+Understanding the results of a thyroglobulin test after treatment can be complicated. The meaning of your results depends on your health history, the type of treatment you had, and the results of other tests. So, it’s best to ask your provider to explain what your test results say about your health.
+In general, if you were tested after treatment for thyroid cancer:
+Very low levels or no thyroglobulin may mean that your cancer treatment successfully removed all thyroid tissue, including cancerous tissue. However, you will still need more testing over time to make sure.
+Thyroglobulin levels that stay high or increase may mean that your treatment did not successfully remove all thyroid tissue or that you still have thyroid cancer. It may also mean that your cancer has grown and/or spread.
+Thyroglobulin levels that were low after treatment but later increased may mean that your thyroid cancer has come back after treatment.
+Because other thyroid conditions and certain illnesses can also affect thyroglobulin, your provider will likely check your levels over time instead of relying on a single test result.
+Learn more about laboratory tests, reference ranges, and understanding results.

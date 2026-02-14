@@ -1,0 +1,16 @@
+Test Name: Tuberculosis Screening
+URL: https://medlineplus.gov/lab-tests/tuberculosis-screening/
+--- CONTENT ---
+Your TB skin or blood test results will usually be positive, negative, or borderline (indeterminate).
+A positive result means that you have been infected with TB bacteria. You will need more tests to find out if you have an inactive TB infection or TB disease. These tests may include a chest x-ray or a sputum culture. If you had a positive result on a TB skin test, you may have a TB blood test to confirm the result.
+Occasionally, a TB blood or skin test can result in a false positive. This means that the test says you have a TB infection when you don't. A TB test can result in a false positive if you've been vaccinated with the bacille Calmette-Guerin (BCG) TB vaccine. This type of vaccine is rarely used in the United States, but if you have had this vaccination, let your provider know. You may also have a false positive if you have an infection from another type of bacteria from the same family as the TB bacteria.
+A negative result means that your skin or blood did not react to the test. You are unlikely to have an inactive TB infection or TB disease. But you may still need more testing if you:
+Have symptoms of TB.
+Were tested sooner than six to eight weeks after exposure to TB.
+Have HIV.
+Had a TB skin test after being around someone with TB disease.
+Occasionally, a TB test can also result in a false negative. This means that the test says you don't have a TB infection when you do. A TB test can result in a false negative if you've contracted TB within the past 8 to 10 weeks or if you've had certain measles or smallpox vaccines.
+Sometimes a TB blood test result will be "borderline," which means the test could not show for sure whether you have a TB infection. If this happens, you will likely be tested again.
+Overall, TB tests tend to be accurate. However, TB blood tests are more accurate than TB skin tests. Your provider will consider whether anything about your health history might affect the accuracy of your test results.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

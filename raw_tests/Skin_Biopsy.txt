@@ -1,0 +1,9 @@
+Test Name: Skin Biopsy
+URL: https://medlineplus.gov/lab-tests/skin-biopsy/
+--- CONTENT ---
+If your results were normal, it means no cancer or skin disease was found. If your results were not normal, you may be diagnosed with one of the following conditions:
+A bacterial or fungal infection.
+A skin disorder such as psoriasis.
+Skin cancer. Your results may mean you have one of three types of skin cancers: basal cell, squamous cell, or melanoma.
+If you are diagnosed with basal cell or squamous cell cancer, the entire cancerous lesion may be removed at the time of the skin biopsy or soon after. Often, no other treatment is needed. If you are diagnosed with melanoma, you will need more tests to see if the cancer has spread. Then you and your provider can develop a treatment plan that's right for you.
+Learn more about laboratory tests, reference ranges, and understanding results.

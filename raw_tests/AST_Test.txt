@@ -1,0 +1,17 @@
+Test Name: AST Test
+URL: https://medlineplus.gov/lab-tests/ast-test/
+--- CONTENT ---
+Low levels of AST in the blood are usually considered normal.
+High levels of AST in the blood may be due to liver disease or other liver problems. Other reasons you may have high levels of AST can include:
+Hepatitis
+Cirrhosis
+Mononucleosis
+Heart procedures or problems
+Pancreatitis
+Hemochromatosis (too much iron in the body)
+Deep burns
+Seizures
+Use of drugs that are toxic to the liver, especially alcohol use
+Surgery
+If your results are not in the normal range, it doesn't always mean that you have a medical condition that needs treatment. Many things can affect your results, such as pregnancy, exercise, certain medicines, and your age or sex. Talk with your provider to learn what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

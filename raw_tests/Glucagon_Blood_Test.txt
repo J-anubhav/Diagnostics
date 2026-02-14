@@ -1,0 +1,10 @@
+Test Name: Glucagon Blood Test
+URL: https://medlineplus.gov/lab-tests/glucagon-blood-test/
+--- CONTENT ---
+If your glucagon levels were not in the normal range, it may be a sign of one of the following conditions:
+Hypoglycemia
+Diabetes
+Acute or chronic pancreatitis
+Glucagonoma (pancreatic tumor)
+If you have questions about your results, talk to your health care provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

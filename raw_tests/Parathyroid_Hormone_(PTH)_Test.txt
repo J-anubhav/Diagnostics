@@ -1,0 +1,30 @@
+Test Name: Parathyroid Hormone (PTH) Test
+URL: https://medlineplus.gov/lab-tests/parathyroid-hormone-pth-test/
+--- CONTENT ---
+Many health conditions can cause abnormal PTH levels. To understand what your PTH test results mean, your provider will consider the results of other tests, especially a blood calcium test. Your symptoms, medical history, and family history will also be considered.
+If your PTH level is higher than normal, it's called hyperparathyroidism. There are two types. The type you have generally depends on your blood calcium level:
+Primary hyperparathyroidism is high PTH levels with high blood calcium levels. This often means that a problem with your parathyroid glands is causing them to make too much PTH. The extra PTH raises your blood calcium levels. Possible causes of primary hyperparathyroidism include:
+
+
+A benign tumor (not cancer) in one of your parathyroid glands, called a parathyroid adenoma. This is the most common cause of high PTH levels.
+Hyperplasia of your parathyroid glands, which means that they have become larger than normal.
+A rare inherited condition, such as multiple endocrine neoplasia type 1 or familial hypocalciuric hypercalcemia.
+Parathyroid cancer, which is rare.
+
+
+
+Secondary hyperparathyroidism is high PTH levels with low blood calcium levels. Your parathyroid glands are working correctly by making extra PTH to try to increase your blood calcium. It's likely that a problem outside of your parathyroid glands is preventing your blood calcium levels from increasing.
+Your provider will probably order more tests to find out what's causing your low blood calcium. Possible causes include:
+
+Having low levels of vitamin D (vitamin D deficiency), phosphate, and/or magnesium
+Not getting enough calcium
+Digestive disorders, such as malabsorption syndromes, that make it hard for your body to absorb calcium from food
+Kidney failure, which causes your body to lose too much calcium through urine
+If your PTH levels are lower than normal and your blood calcium level is also low, it may mean your parathyroid glands can't make enough PTH. This is called hypoparathyroidism. This condition is less common than hyperparathyroidism. Possible causes include:
+Damage to your parathyroid glands from surgery on your neck or radiation therapy for cancer
+Certain autoimmune disorders that destroy parathyroid tissue
+Certain genetic disorders, such as DiGeorge syndrome, also called 22q11.2 deletion syndrome
+Getting too much vitamin D and/or calcium from supplements or from antacids that contain calcium
+Serious illnesses
+If your PTH levels aren't normal when compared to your blood calcium level and other test results, your provider will usually order other blood tests to learn more. If a parathyroid tumor is suspected, you may also have imaging tests. If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

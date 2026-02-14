@@ -1,0 +1,10 @@
+Test Name: D-Dimer Test
+URL: https://medlineplus.gov/lab-tests/d-dimer-test/
+--- CONTENT ---
+If your results show low or normal D-dimer levels in the blood, it means you probably don't have a clotting disorder.
+But if you are being treated with blood thinner medicines, they may cause a false negative D-dimer test. This means your test results show that you don't have a clotting disorder, but you really do.
+If your results show higher than normal levels of D-dimer, it may be a sign of a clotting disorder. Additional tests will be needed to show where the blood clot is located or what type of clotting disorder you have.
+High D-dimer levels are not always caused by clotting disorders.  A few other possible reasons why you may have high D-dimer levels include pregnancy, heart disease, rheumatoid arthritis, and recent surgery. Being older or immobilized (unable to move) may also cause a high D-dimer level.
+If your D-dimer results were not normal, your provider will probably order more tests to make a diagnosis. To understand the results of a D-dimer test, your provider will consider your symptoms, medical history, and the results of other tests.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

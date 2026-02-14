@@ -1,0 +1,13 @@
+Test Name: Flu (Influenza) Test
+URL: https://medlineplus.gov/lab-tests/flu-influenza-test/
+--- CONTENT ---
+The results of your flu test tell you if signs of influenza A or B virus were found in your sample. Your results are usually described as "positive" or "negative."
+A positive result means you most likely have the seasonal flu. It's important to limit your contact with others to keep from infecting them. False positives (when your test says you have the flu, but you really don't) are very uncommon. Most people who have the flu won't need antiviral medicine to get better, but your provider may prescribe it depending on your health and how long you've been sick.
+To help ease your symptoms, get plenty of rest and drink lots of liquids. Over-the-counter pain relievers may help with fever and aches. But children and teens should never take aspirin for flu-like symptoms. That's because aspirin increases the risk of Reye Syndrome, a rare, but serious illness that can happen after a viral illness.
+You can go back to your usual activities when these things have been true for at least 24 hours:
+Your symptoms have been getting better, and
+You haven't had a fever and you're not taking fever-reducing medicine.
+A negative result means you may not have the flu. A different virus or bacteria may be causing your symptoms. But the flu can't be ruled out. That's because your results could be a false negative (when your test says you don't have the flu, but you really do.)
+If you have negative test results and flu-like symptoms, ask your provider what you should do next. It's possible that your test was done when you had only a small amount of virus in your body. You may need more testing, especially if your first test was a rapid antigen flu test.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

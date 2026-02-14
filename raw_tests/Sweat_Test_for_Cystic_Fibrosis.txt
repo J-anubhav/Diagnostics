@@ -1,0 +1,8 @@
+Test Name: Sweat Test for Cystic Fibrosis
+URL: https://medlineplus.gov/lab-tests/sweat-test-for-cystic-fibrosis/
+--- CONTENT ---
+Chloride in sweat is measured in mmol/L (millimoles of chloride per liter of sweat):
+A chloride level of 60 or greater means that you or your child most likely has cystic fibrosis. To confirm the diagnosis, your provider may have you repeat the test or order a CF genetic test.
+A chloride level of 30 to 59 means that more testing is needed because the test result is unclear, and CF is possible. Your provider may order another sweat test or a different type of test, such as genetic testing.
+A chloride level less than 29 is normal. This means that you or your child is unlikely to have CF. But a normal test result doesn't rule out CF. Certain people with CF have normal sweat test results. If you or your child have symptoms of CF or if your baby had a newborn screening test that showed possible CF, your provider may order more tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

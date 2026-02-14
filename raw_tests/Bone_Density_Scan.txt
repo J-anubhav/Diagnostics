@@ -1,0 +1,17 @@
+Test Name: Bone Density Scan
+URL: https://medlineplus.gov/lab-tests/bone-density-scan/
+--- CONTENT ---
+Bone density results are often given as T-scores and Z-scores. A higher number means that you have greater bone density. The lower your score, the higher your risk of bone fracture.
+T-score may be used if you are a postmenopausal woman or a man age 50 or older. This measurement compares your bone density with a healthy young adult of the same sex.
+Z-score may be used if you are premenopausal, a male under age 50, or a child. This measurement compares your bone density measurement with other people your age, weight, sex, and ethnic or racial origin.
+Your T-score results may show one of the following:
+A T-score of -1.0 or higher. This is considered normal bone density.
+A T-score between -1.0 and -2.4. This means you have low bone density (osteopenia) and may be at risk for developing osteoporosis.
+A T-score of -2.5 or less. This means you probably have osteoporosis.
+If your results show you have low bone density, your provider will recommend steps to prevent further bone loss. These may include:
+Getting more exercise, with activities such as walking, dancing, and using weight machines.
+Adding calcium and vitamin D to your diet.
+Taking prescription medicines to increase bone density.
+Your provider may recommend how often you need to have repeat scans, based on your risk of bone fractures. The recommendations are to get a central DEXA scan every two years for high risk, every 3 to 5 years for moderate risk, and every 10 to 15 years for low risk.
+If you have questions about your results and/or treatments for bone loss, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

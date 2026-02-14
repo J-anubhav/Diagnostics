@@ -1,0 +1,12 @@
+Test Name: BCR-ABL1 Genetic Test
+URL: https://medlineplus.gov/lab-tests/bcr-abl1-genetic-test/
+--- CONTENT ---
+If you had BCR-ABL1 genetic testing to diagnose a blood cancer, your provider will probably use the results of more than one test to make a diagnosis. Your provider will likely diagnose either chronic myeloid leukemia (CML) or Philadelphia chromosome-positive acute lymphoblastic leukemia (Ph+ ALL) if your tests show all three of these results:
+Abnormal white blood cells
+The BCR-ABL1 gene
+The Philadelphia chromosome
+In certain cases, a person may have CML without having the Philadelphia chromosome, but this isn't common.
+If you had a BCR-ABL1 gene test to see if your cancer treatment is working, your provider will compare your results with past test results to look for changes over time. The way your results are reported depends on which test you had. Ask your provider to explain what your test results mean for your health and treatment plan. In general:
+If the amount of BCR-ABL1 in your sample decreases, it means your treatment is working to some degree. Your test results may describe your response to treatment using words such as minor, minimal, partial, major, or complete.
+If the amount of BCR-ABL1 in your sample increases, it may mean your treatment is not working. You may need to try another treatment or have more tests. An increase in BCR-ABL1 levels after successful treatment, may mean your cancer has come back.
+Learn more about laboratory tests, reference ranges, and understanding results.

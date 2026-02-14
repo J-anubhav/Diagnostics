@@ -1,0 +1,8 @@
+Test Name: Respiratory Syncytial Virus (RSV) Tests
+URL: https://medlineplus.gov/lab-tests/respiratory-syncytial-virus-rsv-tests/
+--- CONTENT ---
+A negative result means that no signs of the virus were found in your sample. This may mean that another illness is causing your symptoms.
+But a negative test result does not rule out RSV. It's possible that there was not enough of the virus in the sample for the test to find it.
+A positive result means that you likely have an RSV infection.
+Infants, young children and older adults may need treatment in the hospital if they are having trouble breathing or have lost too much fluid and become dehydrated. Treatment may include oxygen and intravenous (IV) fluids. In the most serious cases, a breathing machine called a ventilator may be needed, but this is uncommon.
+Learn more about laboratory tests, reference ranges, and understanding results.

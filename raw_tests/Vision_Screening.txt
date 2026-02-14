@@ -1,0 +1,5 @@
+Test Name: Vision Screening
+URL: https://medlineplus.gov/lab-tests/vision-screening/
+--- CONTENT ---
+If vision screening shows a possible vision problem or eye disorder, you or your child will likely be referred to an eye care specialist for a more complete eye exam and treatment.
+Learn more about laboratory tests, reference ranges, and understanding results.

@@ -1,0 +1,7 @@
+Test Name: Nasal Swab
+URL: https://medlineplus.gov/lab-tests/nasal-swab/
+--- CONTENT ---
+A negative result means no harmful viruses or bacteria were found in your sample.
+A positive result means a specific type of harmful virus or bacteria was found in your sample. If you are diagnosed with an infection, follow your provider's recommendations for treating your illness. This may include medicines and steps to prevent spreading the infection.
+To understand the results of a nasal swab test, your provider may consider your symptoms, medical history, and the results of other tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

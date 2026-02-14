@@ -1,0 +1,15 @@
+Test Name: HER2 Tumor Marker Test
+URL: https://medlineplus.gov/lab-tests/her2-tumor-marker-test/
+--- CONTENT ---
+The results of HER2 tumor marker tests are reported differently, depending on the type of test you had. The main HER2 tumor marker tests are:
+IHC (immunohistochemistry staining assay) to measure the amount of HER2 protein on cancer cells
+FISH (fluorescence in situ hybridization) to check for extra copies of HER2 genes in cancer cells
+IHC test results for cancer of the breast, stomach, or esophagus show the amount of HER2 protein as a score:
+0 (zero) or 1+ means that your cancer cells don't have too much HER2 protein. Your cancer is HER2 negative and will not respond to HER2 targeted therapy. Your provider will discuss other treatment options.
+2+ means that the amount of HER2 protein is borderline. This may be reported as "equivocal." It means the test result is not clear. You may need to have a different type of HER2 tumor marker test. The test may be done on the same tissue sample, or you may need to provide a new sample.
+3+ means that your cancer cells have too much HER2 protein. Your cancer is HER2 positive and is likely to respond to HER2 targeted therapy.
+FISH results for cancer of the breast, stomach, or esophagus will be reported as either:
+HER2 negative, which means that you don't have too many HER2 genes in your cancer cells. HER2 targeted therapy won't help your cancer, so your provider will discuss other treatment options.
+HER2 positive, which means that your cancer cells have too many HER2 genes. HER2 targeted therapy is likely to help your cancer.
+Talk with your provider to learn what your results mean for your treatment.
+Learn more about laboratory tests, reference ranges, and understanding results.

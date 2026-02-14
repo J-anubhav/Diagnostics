@@ -1,0 +1,12 @@
+Test Name: TP53 Genetic Test
+URL: https://medlineplus.gov/lab-tests/tp53-genetic-test/
+--- CONTENT ---
+If you have cancer and your results show you have an acquired change in your TP53 gene, ask your provider how this information affects your treatment plan and future health.
+If your test results show you have an inherited change in one copy of your TP53 gene, you have Li-Fraumeni syndrome. This doesn't mean you have cancer. But your risk of getting cancer is higher than most people. Talk with your provider about the steps you can take to reduce your risk of cancer. Your provider may discuss:
+Having frequent cancer screening tests to help find cancer early when it may be easier to treat.
+Having a yearly physical exam.
+Making lifestyle changes, such as getting more exercise, eating a healthier diet, and quitting smoking.
+Chemoprevention, which is taking certain medicines or other substances to reduce the risk of developing cancer or to keep it from coming back.
+Mastectomy to help prevent breast cancer.
+The right steps for you will depend on your age, health history, and family health history.
+Learn more about laboratory tests, reference ranges, and understanding results.

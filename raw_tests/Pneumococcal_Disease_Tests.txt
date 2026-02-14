@@ -1,0 +1,12 @@
+Test Name: Pneumococcal Disease Tests
+URL: https://medlineplus.gov/lab-tests/pneumococcal-disease-tests/
+--- CONTENT ---
+The results will show whether you have pneumococcal disease.
+A positive result means that pneumococcus bacteria were found in your specimen. You most likely have pneumococcal disease.
+A negative result means that no pneumococcus bacteria were found in your specimen. Most likely, your symptoms are not caused by pneumococcal disease.
+If you have questions about your results, talk to your provider. They will consider your symptoms and medical history to understand the results of your pneumococcal disease test. They may also want to use a physical exam and/or other tests to help them make a diagnosis and decide on the best treatment for you. These other tests could include:
+Chest x-ray
+Complete blood count (CBC) and differential
+Erythrocyte sedimentation rate (ESR)
+C-reactive protein (CRP) test
+Learn more about laboratory tests, reference ranges, and understanding results.

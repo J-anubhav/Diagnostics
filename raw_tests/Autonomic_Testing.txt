@@ -1,0 +1,6 @@
+Test Name: Autonomic Testing
+URL: https://medlineplus.gov/lab-tests/autonomic-testing/
+--- CONTENT ---
+If any of your autonomic test results were not normal, it likely means that there is a problem with your ANS. To make a diagnosis, your provider will also consider your medical history, symptoms, and results from your physical exam. Sometimes they will order more tests, especially if the cause of your ANS problem is unknown.
+If another disease is causing your ANS problems, treating that disease may help. Otherwise, treatment focuses on helping with your symptoms. This could include medicines and/or lifestyle changes.
+If you have questions about your results, talk to your provider.

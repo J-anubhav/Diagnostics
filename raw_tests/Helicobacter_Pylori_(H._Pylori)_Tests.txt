@@ -1,0 +1,6 @@
+Test Name: Helicobacter Pylori (H. Pylori) Tests
+URL: https://medlineplus.gov/lab-tests/helicobacter-pylori-h-pylori-tests/
+--- CONTENT ---
+A negative (normal) H. pylori test result means that you probably don't have an H. pylori infection. Your provider may order more tests to find out the cause of your symptoms.
+A positive test result means that you have an H. pylori infection. Your provider will usually prescribe one or more antibiotics to treat the infection. You will usually take other medicines to relieve your symptoms and help heal your stomach.  After you finish your treatment, your provider may order repeat tests to make sure all the H. pylori bacteria is gone.
+Learn more about laboratory tests, reference ranges, and understanding results.

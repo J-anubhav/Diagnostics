@@ -1,0 +1,11 @@
+Test Name: Glomerular Filtration Rate (GFR) Test
+URL: https://medlineplus.gov/lab-tests/glomerular-filtration-rate-gfr-test/
+--- CONTENT ---
+Your eGFR results may be reported as a number that shows how much blood your kidneys filter per minute. Your test results may also give your creatinine level and/or your cystatin C level.
+Ask your provider to explain what your eGFR says about your kidney health. An eGFR isn't a perfect test and may not always reflect kidney damage. It's also possible to have an abnormal result even if you don't have kidney damage.
+In general:
+A normal eGFR means that you probably don't have kidney disease.
+An eGFR that's below normal or low may mean that you may have kidney disease.
+A very low eGFR means that you may have kidney failure.
+If you're diagnosed with kidney disease, your provider will explain what you can do to protect your kidneys from more damage and help prevent kidney failure.
+Learn more about laboratory tests, reference ranges, and understanding results.

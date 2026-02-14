@@ -1,0 +1,9 @@
+Test Name: Meningococcal Disease Tests
+URL: https://medlineplus.gov/lab-tests/meningococcal-disease-tests/
+--- CONTENT ---
+The results will show whether you have meningococcal disease.
+A positive result means that meningococcal bacteria (Neisseria meningitidis) were found in your blood or CSF sample. You most likely have meningococcal disease.
+A negative result means that no meningococcal bacteria were found in your blood or CSF sample. Most likely, your symptoms are not caused by meningococcal disease.
+If your provider thinks you have meningococcal disease, you will get treatment with antibiotics. Ideally treatment will begin less than 24 hours after your diagnosis is confirmed.
+If you have questions about your results, talk to your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

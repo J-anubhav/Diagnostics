@@ -1,0 +1,9 @@
+Test Name: V/Q Scan
+URL: https://medlineplus.gov/lab-tests/vq-scan/
+--- CONTENT ---
+If your ventilation and/or perfusion scan results were not normal, it may mean something is keeping your lungs from working properly. If the pictures from the ventilation and perfusion scan don't match, it could mean you have a pulmonary embolism (PE) and will need medical treatment right away.
+The scans may also show that you have a different condition affecting your lungs. These include:
+COPD
+Pneumonia
+Heart failure
+If you have questions about your results, talk to your provider.

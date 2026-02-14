@@ -1,0 +1,8 @@
+Test Name: Fungal Culture Test
+URL: https://medlineplus.gov/lab-tests/fungal-culture-test/
+--- CONTENT ---
+A positive test result means a fungus was found in your sample. You most likely have a fungal infection. Your test results will usually identify the specific type of fungus causing the infection.
+Sometimes another test is done on your sample to help find out which type of medicine will kill the fungus or stop it from growing.
+A negative test result means that no fungi were found in your sample. Something else is probably causing your infection.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

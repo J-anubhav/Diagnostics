@@ -1,0 +1,24 @@
+Test Name: Blood Glucose Test
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+--- CONTENT ---
+The meaning of your test results will depend on which test you had, the results of other tests, and your medical history. Ask your provider what your test results say about your health.
+In general:
+If your results show higher than normal glucose levels, it may mean you have or are at risk for getting diabetes. Prediabetes and diabetes are the most common causes of high glucose levels, but other possible causes include:
+An overactive thyroid gland (hyperthyroidism)
+A problem with your pancreas, including pancreatitis
+Stress from surgery, very serious illness, or trauma
+A problem with your adrenal glands, including Cushing's syndrome and pheochromocytoma
+Certain medicines
+If you have diabetes, glucose levels that are lower than normal for you may be caused by:
+Certain diabetes medicines and other medicines that may lower blood glucose
+Not eating enough, especially after taking diabetes medicine
+Being more physically active than usual
+If you don't have diabetes, low blood glucose levels aren't common. If they happen, they may be caused by:
+Liver or kidney disease
+Underactive adrenal glands, for example, Addison disease
+Certain pituitary disorders
+An underactive thyroid gland (hypothyroidism)
+Malnutrition
+Certain medicines
+Alcohol use disorder (AUD)
+Learn more about laboratory tests, reference ranges, and understanding results.

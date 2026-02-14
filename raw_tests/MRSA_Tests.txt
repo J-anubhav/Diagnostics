@@ -1,0 +1,7 @@
+Test Name: MRSA Tests
+URL: https://medlineplus.gov/lab-tests/mrsa-tests/
+--- CONTENT ---
+If your results are positive, it means you have a MRSA infection. Treatment will depend on how serious the infection is. For mild skin infections, your provider may clean, drain, and cover the wound. You may also get an antibiotic to put on the wound or take by mouth. Certain antibiotics still work for some MRSA infections.
+For more serious cases, you may need to go to the hospital and get treated with powerful antibiotics through an IV (intravenous line).
+To understand the results of a MRSA test, your provider will consider your symptoms, medical history, and the results of other tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

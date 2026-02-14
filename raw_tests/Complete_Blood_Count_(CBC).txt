@@ -1,0 +1,9 @@
+Test Name: Complete Blood Count (CBC)
+URL: https://medlineplus.gov/lab-tests/complete-blood-count-cbc/
+--- CONTENT ---
+A CBC counts the cells in your blood. There are many reasons your levels may not be in the normal range. For example:
+Abnormal levels of red blood cells, hemoglobin, or hematocrit may be a sign of dehydration, anemia, heart disease, or too little iron in your body.
+A low white cell count may be a sign of an autoimmune disorder, bone marrow disorder, or cancer.
+A high white cell count may be a sign of an infection or a reaction to a medicine.
+If any of your levels are abnormal, it doesn't always mean you have a medical condition that needs treatment. Diet, activity level, medicines, having a menstrual period, not drinking enough water, and other factors can affect the results. Talk with your provider to learn what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

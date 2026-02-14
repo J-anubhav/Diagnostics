@@ -1,0 +1,8 @@
+Test Name: Lactate Dehydrogenase (LDH) Test
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-test/
+--- CONTENT ---
+LDH testing is used for many reasons. The meaning of your LDH test results depends on the reason you had the test, your symptoms, and the results of other tests you've had. So, ask your provider to explain what your results say about your health.
+In general, LDH levels that are higher than normal usually mean you have some type of tissue damage. The damage is usually from disease, infection, or injury.  Your provider may order more tests to diagnose your condition.
+But higher a than normal LDH level doesn't always mean you have a medical condition that needs treatment. High levels can be caused by intense exercise and certain medicines, including aspirin. It's also possible to have a high LDH level if many red blood cells broke open when your sample was collected and tested.
+Lower than normal LDH levels aren't common and usually aren't considered to be a health problem. Taking large amounts of vitamin C or vitamin E may cause low levels. Low LDH levels may also be caused by a rare genetic disorder called lactate dehydrogenase deficiency.
+Learn more about laboratory tests, reference ranges, and understanding results.

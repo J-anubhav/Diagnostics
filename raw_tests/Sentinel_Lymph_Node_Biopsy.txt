@@ -1,0 +1,7 @@
+Test Name: Sentinel Lymph Node Biopsy
+URL: https://medlineplus.gov/lab-tests/sentinel-lymph-node-biopsy/
+--- CONTENT ---
+The results will be given as positive or negative.
+If your results are positive, it means cancer was found in the sentinel lymph node and may have spread to nearby lymph nodes and/or other organs. Your provider may recommend removing and testing more lymph nodes to check for cancer cells.
+If your results are negative, it means no cancer cells were found in the sentinel lymph node, and it's unlikely that the cancer has spread. You will not need to have any more lymph nodes removed.
+If you have questions about your results, talk to your provider.

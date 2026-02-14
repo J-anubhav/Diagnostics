@@ -1,0 +1,9 @@
+Test Name: Antibiotic Sensitivity Test
+URL: https://medlineplus.gov/lab-tests/antibiotic-sensitivity-test/
+--- CONTENT ---
+Your results will show how effective different antibiotics were in killing the bacteria or fungus causing your infection. Results are usually described in one of the following ways:
+Susceptible. The tested antibiotic stopped the growth or killed the bacteria or fungus causing your infection, so it may be a good choice for treatment.
+Intermediate. The antibiotic may work at a higher dose, or you may need to take the dose more often.
+Resistant. The antibiotic did not stop the growth or kill the bacteria or fungus causing the infection. It would not be a good choice for treatment.
+If your results are resistant to all of the medicines, you may need to take a few medicines that may work better together.
+If you have questions about your results, talk to your provider.

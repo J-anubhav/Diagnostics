@@ -1,0 +1,19 @@
+Test Name: Amylase Test
+URL: https://medlineplus.gov/lab-tests/amylase-test/
+--- CONTENT ---
+High levels of amylase in blood or urine may be a sign of:
+Acute (sudden) pancreatitis
+A blockage in a duct (small tube) in the pancreas
+Cancer or a benign (not cancerous) tumor of the pancreas
+High levels of amylase in peritoneal fluid may be a sign of:
+Acute (sudden) pancreatitis
+A blocked intestine
+Lack of blood flow to the intestines
+Low levels of amylase in blood or urine are uncommon, but may be a sign of:
+Chronic pancreatitis causing permanent damage to the cells that make amylase
+Kidney disease
+Cystic fibrosis
+Liver disease
+Pre-eclampsia (a type of high blood pressure in pregnancy)
+To learn more about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

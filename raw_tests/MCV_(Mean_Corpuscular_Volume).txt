@@ -1,0 +1,22 @@
+Test Name: MCV (Mean Corpuscular Volume)
+URL: https://medlineplus.gov/lab-tests/mcv-mean-corpuscular-volume/
+--- CONTENT ---
+An MCV test alone cannot diagnose any disease. Your provider will use the results of your MCV, other test results, and your medical history to make a diagnosis.
+If your results show that your red blood cells are smaller than normal, it may be a sign of:
+Certain types of anemia, including iron deficiency anemia, the most common form of anemia. It happens when you don't have enough iron in your body.
+Thalassemia, which is a group of blood disorders that are inherited (passed down through families). These disorders cause your body to make fewer healthy red blood cells and less hemoglobin. This can cause severe anemia.
+If your results show that your red blood cells are larger than normal, it may be a sign of:
+Pernicious anemia, which may be caused by:
+
+A lack of vitamin B12
+A disease that affects your body's ability to use vitamin B12, such as certain autoimmune diseases, celiac disease, or Crohn's disease
+
+
+Anemia caused by a lack of folic acid
+Liver disease
+It's also possible to have anemia with a normal MCV. This may happen if anemia is caused by conditions, such as:
+A sudden loss of blood
+Kidney failure
+Aplastic anemia (uncommon)
+If your MCV levels are not in the normal range, it doesn't always mean you have a medical problem that needs treatment. Your age, diet, activity level, medicines, menstrual period, and other conditions can affect the test results. Talk with your provider to learn what your results mean.
+Learn more about laboratory tests, reference ranges, and understanding results.

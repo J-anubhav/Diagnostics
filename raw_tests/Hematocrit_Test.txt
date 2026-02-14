@@ -1,0 +1,30 @@
+Test Name: Hematocrit Test
+URL: https://medlineplus.gov/lab-tests/hematocrit-test/
+--- CONTENT ---
+Your hematocrit test results are reported as a number. That number is the percentage of your blood that's made up of red blood cells. For example, if your hematocrit test result is 42, it means that 42% of your blood is red blood cells, and the rest is made up of white blood cells, platelets, and blood plasma.
+Normal hematocrit levels will vary, depending on your sex, age, whether or not you smoke, and the altitude where you live. Ask your provider what your hematocrit level should be.
+A lower-than-normal hematocrit level may be a sign that:
+You have had blood loss due to a recent injury
+You have a condition causing chronic (long-term) blood loss
+Your body doesn't have enough red blood cells (anemia). There are many types of anemia, and they can be caused by different medical conditions.
+Your body is making too many white blood cells, which may be caused by:
+
+Bone marrow disease
+Certain cancers, including leukemia, lymphoma, multiple myeloma, or cancers that spread to your bone marrow from other parts of the body
+A higher-than-normal hematocrit level may be a sign that:
+Your body is making too many red blood cells, which may be caused by:
+
+Lung disease
+Congenital heart disease
+Heart failure
+Polycythemia
+
+
+Your blood plasma level is too low, which may be caused by:
+
+Dehydration, the most common cause of a high hematocrit
+Shock
+If your results are not in the normal range, it doesn't always mean you have a medical condition that needs treatment. Living at high altitudes with less oxygen in the air may cause a high hematocrit. That's because your body responds to low oxygen levels by making more red blood cells to give you the oxygen you need.
+Pregnancy can cause a low hematocrit. That's because your body has more fluid than usual during pregnancy, which decreases the percentage that's made of red blood cells.
+To learn what your test results mean, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

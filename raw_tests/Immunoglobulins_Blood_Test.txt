@@ -1,0 +1,33 @@
+Test Name: Immunoglobulins Blood Test
+URL: https://medlineplus.gov/lab-tests/immunoglobulins-blood-test/
+--- CONTENT ---
+Your provider will compare your levels of IgM, IgG, and IgA. Your results can mean different things, depending on your symptoms, any conditions you may have, and which immunoglobulins are high or low. An immunoglobulins blood test alone cannot diagnose any conditions. So if your results aren't normal, you'll probably need more testing to find out what's affecting your immune system.
+Some possible causes of low levels of one or more immunoglobulins are:
+Conditions that may reduce the amount of protein in your body, including:
+
+Kidney disease
+Serious burns
+Certain malabsorption disorders
+Malnutrition
+
+
+Conditions that affect your ability to make immunoglobulins, including:
+
+Complications from diabetes
+Kidney failure
+
+
+A genetic disease that you were born with, such as common variable immunodeficiency disorder (CVID)
+Some possible causes of high levels of one or more immunoglobulins are:
+An autoimmune disease
+Hepatitis
+Cirrhosis
+A chronic infection
+Certain cancers. These cancers often cause a very high level of one type of immunoglobulin and low levels for the other types:
+
+Multiple myeloma
+Chronic lymphocytic leukemia (CLL)
+Lymphoma
+Waldenström macroglobulinemia
+If your immunoglobulin levels aren't normal, it doesn't always mean you have a condition that needs treatment. Certain medicines can affect your results. If you have questions about your results, talk with your provider. The earlier you start treating abnormal immunoglobulin levels, the more likely you are to treat its underlying cause.
+Learn more about laboratory tests, reference ranges, and understanding results.

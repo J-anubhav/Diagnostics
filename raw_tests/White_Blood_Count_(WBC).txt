@@ -1,0 +1,18 @@
+Test Name: White Blood Count (WBC)
+URL: https://medlineplus.gov/lab-tests/white-blood-count-wbc/
+--- CONTENT ---
+Conditions that may cause a high white blood count, also called leukocytosis, include:
+An infection
+An inflammatory disease such as rheumatoid arthritis
+An allergy
+Leukemia or Hodgkin disease
+Tissue damage from a burn injury or surgery
+Smoking, stress, a reaction to a medicine, or pregnancy may also cause your body to make more white blood cells, which leads to a high white blood count.
+Conditions that may cause a low white blood count, also called leukopenia, include:
+Bone marrow damage. This may be caused by infection, disease, or treatments such as chemotherapy.
+Cancers that affect the bone marrow.
+An autoimmune disorder, such as lupus.
+HIV.
+If you are already being treated for a white blood cell disorder, your results may show if your treatment is working or whether your condition has improved.
+If you have questions about your results, talk to your provider. Your provider will consider your symptoms, medical history, and the results of other blood tests to understand your white blood count results.
+Learn more about laboratory tests, reference ranges, and understanding results.

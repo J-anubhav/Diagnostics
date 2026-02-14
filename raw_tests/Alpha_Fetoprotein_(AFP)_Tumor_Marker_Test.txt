@@ -1,0 +1,16 @@
+Test Name: Alpha Fetoprotein (AFP) Tumor Marker Test
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/
+--- CONTENT ---
+If you haven't been diagnosed with cancer, test results that show:
+High levels of AFP may be a sign of cancer of the liver, ovaries, or testicles. But having a high AFP level doesn't mean you have cancer or that you will get cancer. Liver injury and liver diseases that aren't cancer can also cause high AFP levels. Less often, high levels of AFP may be a sign of other cancers, including lymphoma or lung cancer. Your provider will use your medical history and other test results to make a diagnosis.
+Normal levels of AFP mean you're less likely to have a cancer that causes high AFP levels. But a normal test result doesn't rule out cancer because some people with these cancers have normal AFP levels.
+If you're being treated for a cancer that increased your AFP levels, you may be tested several times during treatment. Your provider will look at all your AFP test results to see how your levels have changed over time. If your results show:
+Your AFP levels are increasing, it may mean that your treatment isn't working.
+Your AFP levels are decreasing, it may mean your treatment is working.
+Your AFP levels have stayed the same, it may mean your disease is stable and hasn't gotten better or worse.
+If you've finished treatment for cancer that caused high AFP levels and your test results are:
+Not normal, it may mean that you still have some cancer in your body.
+Higher now than they were shortly after treatment, it may mean your cancer is growing again.
+If you have a long-lasting liver disease that's not cancer, you may need other tests to check for liver cancer if your test results show a sudden increase in AFP or your level is very high.
+Ask your provider to explain what your test results mean for your health.
+Learn more about laboratory tests, reference ranges, and understanding results.

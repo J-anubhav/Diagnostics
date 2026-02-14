@@ -1,0 +1,19 @@
+Test Name: Osmolality Tests
+URL: https://medlineplus.gov/lab-tests/osmolality-tests/
+--- CONTENT ---
+If your serum osmolality results were not normal, it may be a sign of:
+Dehydration or overhydration
+Too much or too little salt in the blood
+Antifreeze or other types of poisoning
+Diabetes insipidus
+Stroke
+If your urine osmolality results were not normal, it may be a sign of:
+Dehydration or overhydration
+Heart failure
+Liver disease
+Kidney disease
+If your stool osmolality results were not normal, it may be a sign of:
+Factitious diarrhea, a condition caused by the overuse of laxatives
+Malabsorption, a condition that affects your ability to digest and take in nutrients from food
+If you have questions about your results, talk to your provider. To understand the results of an osmolality test, your provider may consider your symptoms, medical history, and the results of other blood tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

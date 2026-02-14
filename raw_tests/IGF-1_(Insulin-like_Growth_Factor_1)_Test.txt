@@ -1,0 +1,7 @@
+Test Name: IGF-1 (Insulin-like Growth Factor 1) Test
+URL: https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
+--- CONTENT ---
+If your child's results show lower than normal levels of IGF-1, it probably means they have a GH deficiency or insensitivity to GH. In a child, this may be caused by a genetic disorder or brain disease. Your child may benefit from treatment with GH supplementation. GH supplementation is an injected medicine that contains manufactured human growth hormone. When GH deficiency is diagnosed and treated early, some children can grow several inches in the first year of treatment. Others grow less and more slowly but still benefit from treatment.
+If your results show lower than normal IGF-1, it may be due to a normal age-related decrease in the hormone or other conditions. Your provider may order more tests to help make a diagnosis.
+Higher than normal levels of IGF-1 may mean gigantism in children or acromegaly in adults. Gigantism and acromegaly are most often caused by a tumor in the pituitary gland, a small organ in the base of the brain that controls many functions, including growth. Treatment for the tumor may include radiation therapy, surgery, and/or medicines. But if the cause is not a tumor, you or your child may need more tests to identify the cause.
+Learn more about laboratory tests, references ranges, understanding results.

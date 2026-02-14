@@ -1,0 +1,11 @@
+Test Name: Pulse Oximetry
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+--- CONTENT ---
+Results are often given as oxygen saturation levels. A normal oxygen saturation level ranges between 95% and 100%. Saturation levels may be somewhat lower and considered acceptable if you have a lung disease such as COPD or pneumonia. Your levels may also be lower if you live in an area with a higher elevation, where there is less oxygen in the air.
+If you are using an at-home oximeter, watch for signs or symptoms that you have low oxygen levels, such as:
+Lips, nails, or face that look bluish (cyanosis)
+Trouble breathing or shortness of breath
+Chest pain or tightness
+Fast heart rate
+Contact your provider if your oxygen saturation level is 92% or lower. If it falls to 88% or lower, seek immediate medical attention.
+If you have questions about your results, talk to your provider.

@@ -1,0 +1,14 @@
+Test Name: CCP Antibody Test
+URL: https://medlineplus.gov/lab-tests/ccp-antibody-test/
+--- CONTENT ---
+If your CCP antibody results were positive, it means these antibodies were found in your blood. A negative result means no CCP antibodies were found. The meaning of these results may depend on the results of a rheumatoid factor (RF) test as well as a physical exam.
+If you have symptoms of rheumatoid arthritis, and your results show:
+Positive CCP antibodies and positive RF, it means that you probably have rheumatoid arthritis.
+Positive CCP antibodies and negative RF, it could mean you are in the early stages of rheumatoid arthritis or will develop it in the future.
+Negative CCP antibodies and negative RF, it means you are less likely to have rheumatoid arthritis. Your provider may need to do more tests to help find out what is causing your symptoms.
+Sometimes, CCP antibodies may be found in other conditions such as:
+Other autoimmune disorders such as Sjogren's syndrome or lupus
+Active tuberculosis (TB)
+Chronic lung disease
+To understand the results of a CCP antibody test, your provider will consider your symptoms, medical history, physical exam, and the results of other tests.
+Learn more about laboratory tests, reference ranges, and understanding results.

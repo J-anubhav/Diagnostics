@@ -1,0 +1,13 @@
+Test Name: TSH (Thyroid-stimulating hormone) Test
+URL: https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/
+--- CONTENT ---
+Your TSH test results can tell you if your thyroid is making too much or too little hormones. But the test can't explain why your TSH levels may be too high or too low.
+If your test results aren't normal, your provider will probably order other thyroid blood tests to find out what's causing your thyroid problem. These blood tests may include:
+T4 thyroid hormone test
+T3 thyroid hormone test
+Thyroid antibodies test to help diagnose an autoimmune thyroid disorder, such as:
+
+Graves' disease, the most common cause of hyperthyroidism
+Hashimoto's disease, that the most common cause of hypothyroidism
+In certain cases, an abnormal TSH result may be a sign of a pituitary gland problem, but this doesn't happen often.
+Learn more about laboratory tests, reference ranges, and understanding results.

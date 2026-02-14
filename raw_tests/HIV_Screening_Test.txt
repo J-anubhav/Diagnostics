@@ -1,0 +1,12 @@
+Test Name: HIV Screening Test
+URL: https://medlineplus.gov/lab-tests/hiv-screening-test/
+--- CONTENT ---
+A negative test result means that no signs of an HIV infection were found in your sample. But that doesn't always mean that you don't have HIV. You could have an HIV infection, but it's too soon for the test to tell and you may need another test later. Your provider or an HIV counselor can explain your test result and let you know if you need another test.
+In general, if you have a negative result on a rapid test or an at-home test and a possible HIV exposure that was:
+90 days ago or longer, you can be confident that you don't have HIV
+Less than 90 days ago, you will likely need another test later to check for HIV again
+A positive test result means that signs of an HIV infection were found in your sample. You will need a follow-up test to confirm an HIV diagnosis unless you had a NAT test.
+If you used an at-home test, see your provider for follow-up testing.
+If you had your test at a medical office or community program, the testing site will arrange your follow-up test.
+If your follow-up test is also positive, it means you have HIV. It's important to start medicines called antiretroviral therapy (ART) right away, even if you're still healthy. ART can't cure HIV, but it may lower the amount of virus in your blood enough so that a test can't find it. If you're living with HIV, it's important to see your provider regularly for tests to check how your treatment is working.
+Learn more about laboratory tests, reference ranges, and understanding results.

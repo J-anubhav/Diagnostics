@@ -1,0 +1,14 @@
+Test Name: CSF Immunoglobulin G (IgG) Index
+URL: https://medlineplus.gov/lab-tests/csf-immunoglobulin-g-igg-index/
+--- CONTENT ---
+A CSF IgG index that's higher than normal may be a sign of an infection or an inflammatory or autoimmune condition that affects your central nervous system, such as:
+Multiple sclerosis
+Transverse myelitis (TM)
+Syphilis that infects your nervous system (neurosyphilis)
+Connective tissue disorders
+Guillain-Barre syndrome
+Encephalitis caused by herpes simplex
+You may need more tests before your provider can diagnose your condition.
+A CSF IgG index that's lower than normal may be a sign that your body is unable to make enough IgG antibodies, and you are likely to get sick with infections. Experts don't know what causes this problem. Normally, a test of IgG levels in blood is used to check whether you may lack IgG antibodies.
+If you have questions about your results, talk with your provider.
+Learn more about laboratory tests, reference ranges, and understanding results.

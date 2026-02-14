@@ -1,0 +1,10 @@
+Test Name: BRAF Genetic Test
+URL: https://medlineplus.gov/lab-tests/braf-genetic-test/
+--- CONTENT ---
+If you have cancer and your test results show:
+You have a change in your BRAF gene, your provider may prescribe medicines that are designed to target the changed BRAF proteins that are making your cancer grow. You may also need other treatments.
+You don't have a change in your BRAF gene, your provider will prescribe another type of treatment for your cancer.
+If you don't have cancer and your results show you have a change in your BRAF gene, it does not mean you'll get cancer. But, depending on the change, you may have a higher risk of developing cancer.
+You may be able to reduce your risk by having more frequent cancer screenings. For example, to reduce or risk of melanoma, you can have more skin exams to check your whole body for moles and other suspicious growths. Cancer screening can help catch cancer early when it's easier to treat.
+If you have an inherited change in your BRAF gene, talk with your provider or a genetic counselor to learn about the risks of passing the change to your children.
+Learn more about laboratory tests, reference ranges, and understanding results.
